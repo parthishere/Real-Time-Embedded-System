@@ -1,0 +1,11 @@
+Pthread Policy is SCHED_OTHER
+Pthread Policy is SCHED_FIFO
+PTHREAD SCOPE SYSTEM
+rt_max_prio=99
+rt_min_prio=1
+
+Thread idx=0, sum[0...0]=0
+Thread idx=0, affinity contained: CPU-0 
+Thread idx=0 ran 0 sec, 7 msec (7672 microsec)
+
+TEST COMPLETE

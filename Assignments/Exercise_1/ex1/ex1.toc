@@ -1,0 +1,22 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Question 1}{2}{section.1}%
+\contentsline {subsection}{A}{2}{section*.4}%
+\contentsline {subsection}{B}{2}{figure.1}%
+\contentsline {subsection}{C}{2}{Item.2}%
+\contentsline {section}{\numberline {2}Question 2}{3}{section.2}%
+\contentsline {subsection}{A}{3}{section*.5}%
+\contentsline {subsection}{B}{4}{Item.4}%
+\contentsline {subsection}{C}{4}{Item.5}%
+\contentsline {subsection}{D}{4}{Item.6}%
+\contentsline {subsection}{E}{4}{table.1}%
+\contentsline {subsection}{F}{4}{Item.16}%
+\contentsline {section}{\numberline {3}Question 3}{5}{section.3}%
+\contentsline {subsection}{1}{5}{section*.6}%
+\contentsline {subsection}{B}{5}{Item.20}%
+\contentsline {subsection}{C}{6}{Item.24}%
+\contentsline {section}{\numberline {4}Question 4}{7}{section.4}%
+\contentsline {subsection}{A}{7}{section*.7}%
+\contentsline {subsection}{B}{9}{Item.45}%
+\contentsline {subsection}{C}{10}{Item.56}%
+\contentsline {subsection}{D}{11}{Item.71}%

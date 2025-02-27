@@ -1,0 +1,1069 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.17)  5 MAY 2024 23:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/parth/Work/All_Data/university/RTES_ECEN5623/Assignments/project/project_report/project_report.tex
+(/home/parth/Work/All_Data/university/RTES_ECEN5623/Assignments/project/project_report/project_report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./settings/packages.tex (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count193
+\c@Blindtext=\count194
+\c@blind@countparstart=\count195
+\blind@countxx=\count196
+\blindtext@numBlindtext=\count197
+\blind@countyy=\count198
+\c@blindlist=\count199
+\c@blindlistlevel=\count266
+\c@blindlist@level=\count267
+\blind@listitem=\count268
+\c@blind@listcount=\count269
+\c@blind@levelcount=\count270
+\blind@mathformula=\count271
+\blind@Mathformula=\count272
+\c@blind@randomcount=\count273
+\c@blind@randommax=\count274
+\c@blind@pangramcount=\count275
+\c@blind@pangrammax=\count276
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count277
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count278
+\leftroot@=\count279
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count280
+\DOTSCASE@=\count281
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count282
+\c@MaxMatrixCols=\count283
+\dotsspace@=\muskip16
+\c@parentequation=\count284
+\dspbrk@lvl=\count285
+\tag@help=\toks17
+\row@=\count286
+\column@=\count287
+\maxfields@=\count288
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen148
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count292
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen149
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip52
+) (/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count299
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip53
+\bibsep=\skip54
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count300
+) (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count301
+\LTcapwidth=\dimen154
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count302
+\LT@rows=\count303
+\c@LT@tables=\count304
+\c@LT@chunks=\count305
+\LT@p@ftn=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+\bigstrutjot=\dimen155
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `project_report.idx'.
+
+
+Writing index file project_report.idx
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count306
+\pfg@scount=\count307
+\pfg@temp=\write4
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count308
+\multirow@dima=\skip60
+)) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip61
+\subfigcapskip=\skip62
+\subfigcaptopadj=\dimen156
+\subfigbottomskip=\skip63
+\subfigcapmargin=\dimen157
+\subfiglabelskip=\skip64
+\c@subfigure=\count309
+\c@lofdepth=\count310
+\c@subtable=\count311
+\c@lotdepth=\count312
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip65
+\subfig@bottom=\skip66
+) (./settings/page.tex (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count313
+\Gm@cntv=\count314
+\c@Gm@tempcnt=\count315
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks26
+)) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip67
+\f@nch@O@elh=\skip68
+\f@nch@O@erh=\skip69
+\f@nch@O@olh=\skip70
+\f@nch@O@orh=\skip71
+\f@nch@O@elf=\skip72
+\f@nch@O@erf=\skip73
+\f@nch@O@olf=\skip74
+\f@nch@O@orf=\skip75
+) (./settings/macros.tex) (/usr/share/texlive/texmf-dist/tex/latex/matlab-prettifier/matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab source code
+ (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count316
+\lst@gtempboxa=\box57
+\lst@token=\toks27
+\lst@length=\count317
+\lst@currlwidth=\dimen166
+\lst@column=\count318
+\lst@pos=\count319
+\lst@lostspace=\dimen167
+\lst@width=\dimen168
+\lst@newlines=\count320
+\lst@lineno=\count321
+\lst@maxwidth=\dimen169
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count322
+\lst@skipnumbers=\count323
+\lst@framebox=\box58
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\netBracketCount@mlpr=\count324
+\blkLvl@mlpr=\count325
+\blkLvlAtClassdef@mlpr=\count326
+\emHeight@mlpr=\skip76
+\jayDepth@mlpr=\skip77
+\sectionRuleOffset@mlpr=\skip78
+\toks@mlpr=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box59
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count328
+\calc@Bcount=\count329
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
+\calc@Askip=\skip79
+\calc@Bskip=\skip80
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count330
+\calc@Cskip=\skip81
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen172
+\ESO@tempdimb=\dimen173
+)
+\AM@pagewidth=\dimen174
+\AM@pageheight=\dimen175
+\AM@fboxrule=\dimen176
+ (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count331
+\AM@pagebox=\box60
+\AM@global@opts=\toks29
+\AM@pagecnt=\count332
+\AM@toc@title=\toks30
+\c@AM@survey=\count333
+\AM@templatesizebox=\box61
+) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count334
+\c@@ppsavesec=\count335
+\c@@ppsaveapp=\count336
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count337
+\float@exts=\toks31
+\float@box=\box62
+\@float@everytoks=\toks32
+\@floatcapt=\box63
+) (./project_report.aux)
+\openout1 = `project_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package hyperref Info: Link coloring ON on input line 44.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count338
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+ (./project_report.out) (./project_report.out)
+\@outlinefile=\write5
+\openout5 = `project_report.out'.
+
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count339
+\scratchdimen=\dimen177
+\scratchbox=\box64
+\nofMPsegments=\count340
+\nofMParguments=\count341
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen178
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 44.
+Package gensymb Info: Math companion symbols declared on input line 44.
+LaTeX Info: Redefining \degree on input line 44.
+LaTeX Info: Redefining \celsius on input line 44.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 44.
+LaTeX Info: Redefining \ohm on input line 44.
+Package gensymb Info: Using \textohm for \ohm on input line 44.
+Package gensymb Info: Using \textmu for \micro on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=731.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count345
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (./content/title_page.tex
+<figures/cu.png, id=120, 562.1pt x 401.5pt>
+File: figures/cu.png Graphic file (type png)
+<use figures/cu.png>
+Package pdftex.def Info: figures/cu.png  used on input line 10.
+(pdftex.def)             Requested size: 153.64644pt x 109.74812pt.
+ [1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/cu.png>]) (./project_report.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write6
+\openout6 = `project_report.toc'.
+
+ (./project_report.lofpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 ...espaces Hardware overview}}{14}{figure.13}
+                                                  % [1])
+\tf@lof=\write7
+\openout7 = `project_report.lof'.
+
+ (./project_report.lot)
+\tf@lot=\write8
+\openout8 = `project_report.lot'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+[3]
+<figures/hw_overview.png, id=221, 4621.265pt x 2320.67pt>
+File: figures/hw_overview.png Graphic file (type png)
+<use figures/hw_overview.png>
+Package pdftex.def Info: figures/hw_overview.png  used on input line 81.
+(pdftex.def)             Requested size: 462.15358pt x 232.0806pt.
+<figures/hw_overview.jpeg, id=222, 603.0028pt x 332.74312pt>
+File: figures/hw_overview.jpeg Graphic file (type jpg)
+<use figures/hw_overview.jpeg>
+Package pdftex.def Info: figures/hw_overview.jpeg  used on input line 87.
+(pdftex.def)             Requested size: 361.80447pt x 199.6474pt.
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.90 
+      <./figures/hw_overview.png>] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.110     \item \textbf
+                       {FR2.3}: A hardware timer will be employed to generat... <./figures/hw_overview.jpeg>] [6]
+<figures/face_detection_paper.png, id=240, 513.92pt x 252.945pt>
+File: figures/face_detection_paper.png Graphic file (type png)
+<use figures/face_detection_paper.png>
+Package pdftex.def Info: figures/face_detection_paper.png  used on input line 144.
+(pdftex.def)             Requested size: 411.13655pt x 202.35626pt.
+<figures/face_detection_service_papeere.png, id=241, 513.92pt x 349.305pt>
+File: figures/face_detection_service_papeere.png Graphic file (type png)
+<use figures/face_detection_service_papeere.png>
+Package pdftex.def Info: figures/face_detection_service_papeere.png  used on input line 159.
+(pdftex.def)             Requested size: 308.35437pt x 209.58461pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.162           P
+                 aper Source: “Efficient Face Recognition System for Opera... <./figures/face_detection_paper.png (PNG copy)>]
+<figures/response_time.png, id=246, 7417.7125pt x 2511.3825pt>
+File: figures/response_time.png Graphic file (type png)
+<use figures/response_time.png>
+Package pdftex.def Info: figures/response_time.png  used on input line 170.
+(pdftex.def)             Requested size: 445.04355pt x 150.67645pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.182     \item \textbf
+                       {RTR2.6}: The execution time (C3) of the servo shooti...pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.182     \item \textbf
+                       {RTR2.6}: The execution time (C3) of the servo shooti... <./figures/face_detection_service_papeere.png (PNG copy)> <./figures/response_time.png>]
+<figures/task_allocation.png, id=251, 1053.9375pt x 908.39375pt>
+File: figures/task_allocation.png Graphic file (type png)
+<use figures/task_allocation.png>
+Package pdftex.def Info: figures/task_allocation.png  used on input line 214.
+(pdftex.def)             Requested size: 263.48373pt x 227.09789pt.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.217 
+      ]
+<figures/c.png, id=258, 1125.20375pt x 318.18875pt>
+File: figures/c.png Graphic file (type png)
+<use figures/c.png>
+Package pdftex.def Info: figures/c.png  used on input line 226.
+(pdftex.def)             Requested size: 450.07353pt x 127.27324pt.
+<figures/c1.png, id=259, 1125.20375pt x 318.18875pt>
+File: figures/c1.png Graphic file (type png)
+<use figures/c1.png>
+Package pdftex.def Info: figures/c1.png  used on input line 231.
+(pdftex.def)             Requested size: 450.07353pt x 127.27324pt.
+<figures/c3.png, id=260, 1125.20375pt x 339.2675pt>
+File: figures/c3.png Graphic file (type png)
+<use figures/c3.png>
+Package pdftex.def Info: figures/c3.png  used on input line 236.
+(pdftex.def)             Requested size: 450.07353pt x 135.70459pt.
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.238           \end{figure}
+                            pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.238           \end{figure}
+                             <./figures/task_allocation.png> <./figures/c.png>] [11pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.273 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.273 
+       <./figures/c1.png> <./figures/c3.png>]
+<figures/proof_of_concept.png, id=302, 959.585pt x 945.5325pt>
+File: figures/proof_of_concept.png Graphic file (type png)
+<use figures/proof_of_concept.png>
+Package pdftex.def Info: figures/proof_of_concept.png  used on input line 277.
+(pdftex.def)             Requested size: 259.09142pt x 255.29718pt.
+<figures/pf_implementation.png, id=303, 1125.20375pt x 573.14125pt>
+File: figures/pf_implementation.png Graphic file (type png)
+<use figures/pf_implementation.png>
+Package pdftex.def Info: figures/pf_implementation.png  used on input line 283.
+(pdftex.def)             Requested size: 450.07353pt x 229.25243pt.
+
+Underfull \hbox (badness 1571) in paragraph at lines 287--289
+\OT1/cmr/m/n/10.95 The im-age rep-re-sents the soft-ware ar-chi-tec-ture and com-po-nents in-volved in the proof-of-concept
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.291     \item S
+                 chedFIFO: This component is responsible for scheduling the ...pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.291     \item S
+                 chedFIFO: This component is responsible for scheduling the ... <./figures/proof_of_concept.png> <./figures/pf_implementation.png>]
+
+LaTeX Warning: Reference `fig:hardware_arch' on page 13 undefined on input line 305.
+
+<figures/isometric.png, id=310, 1835.85875pt x 1127.21124pt>
+File: figures/isometric.png Graphic file (type png)
+<use figures/isometric.png>
+Package pdftex.def Info: figures/isometric.png  used on input line 309.
+(pdftex.def)             Requested size: 495.68849pt x 304.3511pt.
+[13]
+File: figures/hw_overview.png Graphic file (type png)
+<use figures/hw_overview.png>
+Package pdftex.def Info: figures/hw_overview.png  used on input line 315.
+(pdftex.def)             Requested size: 462.15358pt x 232.0806pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.328     \item \textbf
+                       {Pan and Tilt Servos}: Two servos are employed to con...pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.328     \item \textbf
+                       {Pan and Tilt Servos}: Two servos are employed to con... <./figures/isometric.png>]
+<figures/dfd_cfd.jpeg, id=329, 350.81062pt x 618.05907pt>
+File: figures/dfd_cfd.jpeg Graphic file (type jpg)
+<use figures/dfd_cfd.jpeg>
+Package pdftex.def Info: figures/dfd_cfd.jpeg  used on input line 341.
+(pdftex.def)             Requested size: 210.48799pt x 370.8383pt.
+<figures/sw_block_diagram.png, id=330, 2048.65375pt x 882.29625pt>
+File: figures/sw_block_diagram.png Graphic file (type png)
+<use figures/sw_block_diagram.png>
+Package pdftex.def Info: figures/sw_block_diagram.png  used on input line 349.
+(pdftex.def)             Requested size: 512.16219pt x 220.57352pt.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.352 
+       <./figures/dfd_cfd.jpeg>]
+<figures/haarcascade.png, id=335, 694.595pt x 374.39874pt>
+File: figures/haarcascade.png Graphic file (type png)
+<use figures/haarcascade.png>
+Package pdftex.def Info: figures/haarcascade.png  used on input line 364.
+(pdftex.def)             Requested size: 416.76022pt x 224.64098pt.
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.370 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.370 
+       <./figures/sw_block_diagram.png> <./figures/haarcascade.png>]
+<figures/pwm.png, id=341, 375.4025pt x 180.675pt>
+File: figures/pwm.png Graphic file (type png)
+<use figures/pwm.png>
+Package pdftex.def Info: figures/pwm.png  used on input line 374.
+(pdftex.def)             Requested size: 225.24323pt x 108.40582pt.
+<figures/math.jpeg, id=342, 1204.5pt x 775.39688pt>
+File: figures/math.jpeg Graphic file (type jpg)
+<use figures/math.jpeg>
+Package pdftex.def Info: figures/math.jpeg  used on input line 392.
+(pdftex.def)             Requested size: 481.79147pt x 310.15326pt.
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.395 
+       <./figures/pwm.png>] [18pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.421           \end{itemize}
+                              <./figures/math.jpeg>]
+<figures/response_time_log.png, id=362, 663.47874pt x 478.78876pt>
+File: figures/response_time_log.png Graphic file (type png)
+<use figures/response_time_log.png>
+Package pdftex.def Info: figures/response_time_log.png  used on input line 442.
+(pdftex.def)             Requested size: 398.0903pt x 287.27547pt.
+<figures/final_output.png, id=363, 619.31375pt x 444.66125pt>
+File: figures/final_output.png Graphic file (type png)
+<use figures/final_output.png>
+Package pdftex.def Info: figures/final_output.png  used on input line 450.
+(pdftex.def)             Requested size: 371.59111pt x 266.7988pt.
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.453 T
+       he final output shows that there were no deadlines missed, and the re... <./figures/response_time_log.png (PNG copy)>]
+<figures/top.png, id=370, 1927.2pt x 1084.05pt>
+File: figures/top.png Graphic file (type png)
+<use figures/top.png>
+Package pdftex.def Info: figures/top.png  used on input line 457.
+(pdftex.def)             Requested size: 501.0602pt x 281.84636pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--470
+
+ []
+
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.470 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.470 
+       <./figures/final_output.png> <./figures/top.png>] [21pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.532 \item T
+             ask 1:] [22] [23]
+<code/facedetect.cpp.pdf, id=399, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf>
+Package pdftex.def Info: code/facedetect.cpp.pdf  used on input line 595.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf>
+Package pdftex.def Info: code/facedetect.cpp.pdf  used on input line 595.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<code/facedetect.cpp.pdf, id=402, page=1, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 1>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page1 used on input line 595.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 1>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page1 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [24]
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 1>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page1 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 1>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page1 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 1>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page1 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [25 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=430, page=2, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 2>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page2 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 2>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page2 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 2>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page2 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [26 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=435, page=3, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 3>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page3 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 3>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page3 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 3>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page3 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [27 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=440, page=4, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 4>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page4 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 4>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page4 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 4>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page4 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [28 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=445, page=5, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 5>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page5 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 5>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page5 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 5>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page5 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [29 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=450, page=6, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 6>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page6 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 6>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page6 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 6>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page6 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [30 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=456, page=7, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 7>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page7 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 7>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page7 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 7>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page7 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [31 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=461, page=8, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 8>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page8 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 8>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page8 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 8>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page8 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [32 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=466, page=9, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 9>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page9 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 9>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page9 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 9>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page9 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [33 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=471, page=10, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 10>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page10 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 10>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page10 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 10>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page10 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [34 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=476, page=11, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 11>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page11 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 11>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page11 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 11>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page11 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [35 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=481, page=12, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 12>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page12 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 12>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page12 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 12>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page12 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [36 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=487, page=13, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 13>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page13 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 13>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page13 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 13>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page13 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [37 <./code/facedetect.cpp.pdf>]
+<code/facedetect.cpp.pdf, id=492, page=14, 614.295pt x 794.97pt>
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 14>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page14 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 14>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page14 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: code/facedetect.cpp.pdf Graphic file (type pdf)
+<use code/facedetect.cpp.pdf, page 14>
+Package pdftex.def Info: code/facedetect.cpp.pdf , page14 used on input line 595.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [38 <./code/facedetect.cpp.pdf>] [39] (./project_report.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `project_report.out' has not changed.
+(rerunfilecheck)             Checksum: AF867A8AD0C190A819E2A06326DDBD49;4768.
+ ) 
+Here is how much of TeX's memory you used:
+ 15888 strings out of 478287
+ 244385 string characters out of 5849289
+ 655114 words of memory out of 5000000
+ 33637 multiletter control sequences out of 15000+600000
+ 478014 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,17n,77p,764b,1111s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on project_report.pdf (40 pages, 5490827 bytes).
+PDF statistics:
+ 594 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 423 words of extra memory for PDF output out of 10000 (max. 10000000)
+

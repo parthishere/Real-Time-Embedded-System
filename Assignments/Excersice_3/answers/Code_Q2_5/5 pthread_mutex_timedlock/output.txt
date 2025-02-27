@@ -1,0 +1,3 @@
+gcc -g  -c pthread_mutex_timelock.c -o pthread_mutex_timelock.o -lm
+gcc -g  -o program pthread_mutex_timelock.o -lpthread -lrt -lm
+Runing Executable

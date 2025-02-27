@@ -1,0 +1,14 @@
+15:15:01 **** Incremental Build of configuration Debug for project lab2_part2 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "lab2_part2.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/parth/Work/RTOS/cube/lab2_part2/STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab2_part2.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: lab2_part2.elf
+ 
+arm-none-eabi-size   lab2_part2.elf 
+arm-none-eabi-objdump -h -S  lab2_part2.elf  > "lab2_part2.list"
+   text	   data	    bss	    dec	    hex	filename
+   5024	     20	   1572	   6616	   19d8	lab2_part2.elf
+Finished building: default.size.stdout
+ 
+Finished building: lab2_part2.list
+ 

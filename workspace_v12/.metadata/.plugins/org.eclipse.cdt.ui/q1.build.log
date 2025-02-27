@@ -1,0 +1,19 @@
+
+**** Build of configuration Debug for project q1 ****
+
+/home/parth/ti/ccs1260/ccs/utils/bin/gmake -k -j 12 all -O 
+ 
+Building file: "../main.c"
+Invoking: Arm Compiler
+"/home/parth/ti/ccs1260/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="/home/parth/workspace_v12/q1" --include_path="/home/parth/workspace_v12/q1/driverlib" --include_path="/home/parth/workspace_v12/q1" --include_path="/home/parth/workspace_v12/q1/FreeRTOS/include" --include_path="/home/parth/workspace_v12/q1/FreeRTOS/portable/GCC/ARM_CM4F" --include_path="/home/parth/ti/ccs1260/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=DEBUG --define=TARGET_IS_TM4C129_RA1 --define=PART_TM4C1294NCPDT -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+"../driverlib/rom.h", line 6990: warning #1-D: last line of file ends without a newline
+Finished building: "../main.c"
+ 
+Building target: "q1.out"
+Invoking: Arm Linker
+"/home/parth/ti/ccs1260/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=DEBUG --define=TARGET_IS_TM4C129_RA1 --define=PART_TM4C1294NCPDT -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"q1.map" --heap_size=0 --stack_size=512 -i"/home/parth/ti/ccs1260/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"/home/parth/workspace_v12/q1/driverlib/gcc" -i"/home/parth/ti/ccs1260/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --define=TARGET_IS_TM4C129_RA2 --diag_wrap=off --display_error_number --warn_sections --xml_link_info="q1_linkInfo.xml" --rom_model -o "q1.out" "./main.obj" "./tm4c1294ncpdt_startup_ccs.obj" "./FreeRTOS/croutine.obj" "./FreeRTOS/event_groups.obj" "./FreeRTOS/list.obj" "./FreeRTOS/queue.obj" "./FreeRTOS/stream_buffer.obj" "./FreeRTOS/tasks.obj" "./FreeRTOS/timers.obj" "./FreeRTOS/portable/GCC/ARM_CM4F/port.obj" "./FreeRTOS/portable/GCC/ARM_CM4F/portasm.obj" "./FreeRTOS/portable/MemMang/heap_2.obj" "./driverlib/adc.obj" "./driverlib/aes.obj" "./driverlib/can.obj" "./driverlib/comp.obj" "./driverlib/cpu.obj" "./driverlib/crc.obj" "./driverlib/des.obj" "./driverlib/eeprom.obj" "./driverlib/emac.obj" "./driverlib/epi.obj" "./driverlib/epi_workaround_ccs.obj" "./driverlib/flash.obj" "./driverlib/fpu.obj" "./driverlib/gpio.obj" "./driverlib/hibernate.obj" "./driverlib/i2c.obj" "./driverlib/interrupt.obj" "./driverlib/lcd.obj" "./driverlib/mpu.obj" "./driverlib/onewire.obj" "./driverlib/pwm.obj" "./driverlib/qei.obj" "./driverlib/shamd5.obj" "./driverlib/ssi.obj" "./driverlib/sw_crc.obj" "./driverlib/sysctl.obj" "./driverlib/sysexc.obj" "./driverlib/systick.obj" "./driverlib/timer.obj" "./driverlib/uart.obj" "./driverlib/udma.obj" "./driverlib/usb.obj" "./driverlib/watchdog.obj" "./drivers/buttons.obj" "./drivers/pinout.obj" "./utils/uartstdio.obj" "../tm4c1294ncpdt.cmd"  -llibc.a -l"/home/parth/workspace_v12/q1/driverlib/gcc/libdriver.a"   ../driverlib/gcc/libdriver.a 
+<Linking>
+Finished building target: "q1.out"
+ 
+
+**** Build Finished ****

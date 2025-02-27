@@ -1,0 +1,2669 @@
+Cyclic executer : 300 Hz
+
+Sequencer Thread ran at 2 ms and Cycle of sequencer 1 
+
+Sequencer Thread ran at 6 ms and Cycle of sequencer 2 
+
+Sequencer Thread ran at 9 ms and Cycle of sequencer 3 
+
+Sequencer Thread ran at 12 ms and Cycle of sequencer 4 
+
+Sequencer Thread ran at 16 ms and Cycle of sequencer 5 
+
+Sequencer Thread ran at 19 ms and Cycle of sequencer 6 
+
+Sequencer Thread ran at 22 ms and Cycle of sequencer 7 
+
+Sequencer Thread ran at 26 ms and Cycle of sequencer 8 
+
+Sequencer Thread ran at 29 ms and Cycle of sequencer 9 
+
+Sequencer Thread ran at 32 ms and Cycle of sequencer 10 
+
+Task 1 (Frame Sampler thread) Start Time:33 ms, Release count 1 
+
+Sequencer Thread ran at 36 ms and Cycle of sequencer 11 
+
+Sequencer Thread ran at 39 ms and Cycle of sequencer 12 
+
+Sequencer Thread ran at 42 ms and Cycle of sequencer 13 
+
+Task 1 (Frame Sampler thread) Completion Time:44 ms, Execution Time:11 ms
+
+Sequencer Thread ran at 46 ms and Cycle of sequencer 14 
+
+Sequencer Thread ran at 49 ms and Cycle of sequencer 15 
+
+Sequencer Thread ran at 52 ms and Cycle of sequencer 16 
+
+Sequencer Thread ran at 56 ms and Cycle of sequencer 17 
+
+Sequencer Thread ran at 59 ms and Cycle of sequencer 18 
+
+Sequencer Thread ran at 62 ms and Cycle of sequencer 19 
+
+Sequencer Thread ran at 66 ms and Cycle of sequencer 20 
+
+Task 1 (Frame Sampler thread) Start Time:66 ms, Release count 2 
+
+Sequencer Thread ran at 69 ms and Cycle of sequencer 21 
+
+Sequencer Thread ran at 72 ms and Cycle of sequencer 22 
+
+Sequencer Thread ran at 76 ms and Cycle of sequencer 23 
+
+Task 1 (Frame Sampler thread) Completion Time:78 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 79 ms and Cycle of sequencer 24 
+
+Sequencer Thread ran at 82 ms and Cycle of sequencer 25 
+
+Sequencer Thread ran at 86 ms and Cycle of sequencer 26 
+
+Sequencer Thread ran at 89 ms and Cycle of sequencer 27 
+
+Sequencer Thread ran at 92 ms and Cycle of sequencer 28 
+
+Sequencer Thread ran at 96 ms and Cycle of sequencer 29 
+
+Sequencer Thread ran at 99 ms and Cycle of sequencer 30 
+
+Task 1 (Frame Sampler thread) Start Time:100 ms, Release count 3 
+
+Sequencer Thread ran at 102 ms and Cycle of sequencer 31 
+
+Sequencer Thread ran at 106 ms and Cycle of sequencer 32 
+
+Sequencer Thread ran at 109 ms and Cycle of sequencer 33 
+
+Task 1 (Frame Sampler thread) Completion Time:111 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:112 ms, ReleaSequencer Thread ran at 112 ms and Cycle of sequencer 34 
+
+se count 1 
+
+Sequencer Thread ran at 116 ms and Cycle of sequencer 35 
+
+Sequencer Thread ran at 119 ms and Cycle of sequencer 36 
+
+Sequencer Thread ran at 122 ms and Cycle of sequencer 37 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:124 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:125 ms, Release count 1 
+
+Sequencer Thread ran at 126 ms and Cycle of sequencer 38 
+
+Sequencer Thread ran at 129 ms and Cycle of sequencer 39 
+
+Sequencer Thread ran at 132 ms and Cycle of sequencer 40 
+
+Sequencer Thread ran at 136 ms and Cycle of sequencer 41 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:137 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:138 ms, Release count 4 
+
+Sequencer Thread ran at 139 ms and Cycle of sequencer 42 
+
+Sequencer Thread ran at 142 ms and Cycle of sequencer 43 
+
+Sequencer Thread ran at 146 ms and Cycle of sequencer 44 
+
+Sequencer Thread ran at 149 ms and Cycle of sequencer 45 
+
+Task 1 (Frame Sampler thread) Completion Time:150 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:151 ms, Release count 1 
+
+Sequencer Thread ran at 152 ms and Cycle of sequencer 46 
+
+Sequencer Thread ran at 156 ms and Cycle of sequencer 47 
+
+Sequencer Thread ran at 159 ms and Cycle of sequencer 48 
+
+Task 6 (Send Time-stamped Sequencer Thread ran at 162 ms and Cycle of sequencer 49 
+
+Image to Remote thread) Completion Time:162 ms, Execution Time:11 ms
+
+Sequencer Thread ran at 166 ms and Cycle of sequencer 50 
+
+Task 1 (Frame Sampler thread) Start Time:166 ms, Release count 5 
+
+Sequencer Thread ran at 169 ms and Cycle of sequencer 51 
+
+Sequencer Thread ran at 172 ms and Cycle of sequencer 52 
+
+Sequencer Thread ran at 176 ms and Cycle of sequencer 53 
+
+Task 1 (Frame Sampler thread) Completion Time:178 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 179 ms and Cycle of sequencer 54 
+
+Sequencer Thread ran at 182 ms and Cycle of sequencer 55 
+
+Sequencer Thread ran at 186 ms and Cycle of sequencer 56 
+
+Sequencer Thread ran at 189 ms and Cycle of sequencer 57 
+
+Sequencer Thread ran at 192 ms and Cycle of sequencer 58 
+
+Sequencer Thread ran at 196 ms and Cycle of sequencer 59 
+
+Sequencer Thread ran at 199 ms and Cycle of sequencer 60 
+
+Task 1 (Frame Sampler thread) Start Time:200 ms, Release count 6 
+
+Sequencer Thread ran at 202 ms and Cycle of sequencer 61 
+
+Sequencer Thread ran at 206 ms and Cycle of sequencer 62 
+
+Sequencer Thread ran at 209 ms and Cycle of sequencer 63 
+
+Task 1 (Frame Sampler thread) Completion Time:211 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:212 ms, ReleSequencer Thread ran at 212 ms and Cycle of sequencer 64 
+
+ase count 2 
+
+Sequencer Thread ran at 216 ms and Cycle of sequencer 65 
+
+Sequencer Thread ran at 219 ms and Cycle of sequencer 66 
+
+Sequencer Thread ran at 222 ms and Cycle of sequencer 67 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:224 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:225 ms, Release count 2 
+
+Sequencer Thread ran at 226 ms and Cycle of sequencer 68 
+
+Sequencer Thread ran at 229 ms and Cycle of sequencer 69 
+
+Sequencer Thread ran at 232 ms and Cycle of sequencer 70 
+
+Sequencer Thread ran at 236 ms and Cycle of sequencer 71 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:237 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:238 ms, Release count 7 
+
+Sequencer Thread ran at 239 ms and Cycle of sequencer 72 
+
+Sequencer Thread ran at 242 ms and Cycle of sequencer 73 
+
+Sequencer Thread ran at 246 ms and Cycle of sequencer 74 
+
+Sequencer Thread ran at 249 ms and Cycle of sequencer 75 
+
+Task 1 (Frame Sampler thread) Completion Time:250 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:251 ms, Release count 2 
+
+Sequencer Thread ran at 252 ms and Cycle of sequencer 76 
+
+Sequencer Thread ran at 256 ms and Cycle of sequencer 77 
+
+Sequencer Thread ran at 259 ms and Cycle of sequencer 78 
+
+Task 6 (Send Time-stampeSequencer Thread ran at 262 ms and Cycle of sequencer 79 
+
+d Image to Remote thread) Completion Time:262 ms, Execution Time:11 ms
+
+Task 3 (Difference Image Proc thread) Start Time:264 ms, Release count 1 
+
+Sequencer Thread ran at 266 ms and Cycle of sequencer 80 
+
+Sequencer Thread ran at 269 ms and Cycle of sequencer 81 
+
+Sequencer Thread ran at 272 ms and Cycle of sequencer 82 
+
+Task 3 (Difference Image Proc thread) Completion Sequencer Thread ran at 276 ms and Cycle of sequencer 83 
+
+Time:275 ms, Execution Time:11 ms
+
+Task 1 (Frame Sampler thread) Start Time:277 ms, Release count 8 
+
+Sequencer Thread ran at 279 ms and Cycle of sequencer 84 
+
+Sequencer Thread ran at 282 ms and Cycle of sequencer 85 
+
+Sequencer Thread ran at 286 ms and Cycle of sequencer 86 
+
+Task 1 (Frame Sampler thread) Completion Time:288 ms, Execution Time:11 ms
+
+Task 5 (Processed ISequencer Thread ran at 289 ms and Cycle of sequencer 87 
+
+mage Save to File thread) Start Time:289 ms, Release count 1 
+
+Sequencer Thread ran at 292 ms and Cycle of sequencer 88 
+
+Sequencer Thread ran at 296 ms and Cycle of sequencer 89 
+
+Sequencer Thread ran at 299 ms and Cycle of sequencer 90 
+
+Task 5 (Processed Image Save to File thread) Completion Time:301 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:Sequencer Thread ran at 302 ms and Cycle of sequencer 91 
+
+302 ms, Release count 9 
+
+Sequencer Thread ran at 306 ms and Cycle of sequencer 92 
+
+Sequencer Thread ran at 309 ms and Cycle of sequencer 93 
+
+Sequencer Thread ran at 312 ms and Cycle of sequencer 94 
+
+Task 1 (Frame Sampler thread) Completion Time:314 ms, Execution Time:12 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:315 ms, Release count 3 
+
+Sequencer Thread ran at 316 ms and Cycle of sequencer 95 
+
+Sequencer Thread ran at 319 ms and Cycle of sequencer 96 
+
+Sequencer Thread ran at 322 ms and Cycle of sequencer 97 
+
+Sequencer Thread ran at 326 ms and Cycle of sequencer 98 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:327 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:328 ms, Release count 3 
+
+Sequencer Thread ran at 329 ms and Cycle of sequencer 99 
+
+Sequencer Thread ran at 332 ms and Cycle of sequencer 100 
+
+Sequencer Thread ran at 336 ms and Cycle of sequencer 101 
+
+Sequencer Thread ran at 339 ms and Cycle of sequencer 102 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:340 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:341 ms, Release count 10 
+
+Sequencer Thread ran at 342 ms and Cycle of sequencer 103 
+
+Sequencer Thread ran at 346 ms and Cycle of sequencer 104 
+
+Sequencer Thread ran at 349 ms and Cycle of sequencer 105 
+
+Sequencer Thread ran at 352 ms and Cycle of sequencer 106 
+
+Task 1 (Frame Sampler thread) Completion Time:353 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:354 ms, Release count 3 
+
+Sequencer Thread ran at 356 ms and Cycle of sequencer 107 
+
+Sequencer Thread ran at 359 ms and Cycle of sequencer 108 
+
+Sequencer Thread ran at 362 ms and Cycle of sequencer 109 
+
+Task 6 (Send Time-stamped Image to Remote threSequencer Thread ran at 366 ms and Cycle of sequencer 110 
+
+ad) Completion Time:365 ms, Execution Time:11 ms
+
+Task 1 (Frame Sampler thread) Start Time:367 ms, Release count 11 
+
+Sequencer Thread ran at 369 ms and Cycle of sequencer 111 
+
+Sequencer Thread ran at 372 ms and Cycle of sequencer 112 
+
+Sequencer Thread ran at 376 ms and Cycle of sequencer 113 
+
+Task 1 (Frame Sampler thread) Completion Time:379 ms, Execution Time:12 ms
+Sequencer Thread ran at 379 ms and Cycle of sequencer 114 
+
+
+Sequencer Thread ran at 382 ms and Cycle of sequencer 115 
+
+Sequencer Thread ran at 386 ms and Cycle of sequencer 116 
+
+Sequencer Thread ran at 389 ms and Cycle of sequencer 117 
+
+Sequencer Thread ran at 392 ms and Cycle of sequencer 118 
+
+Sequencer Thread ran at 396 ms and Cycle of sequencer 119 
+
+Sequencer Thread ran at 399 ms and Cycle of sequencer 120 
+
+Task 1 (Frame Sampler thread) Start Time:400 ms, Release count 12 
+
+Sequencer Thread ran at 402 ms and Cycle of sequencer 121 
+
+Sequencer Thread ran at 406 ms and Cycle of sequencer 122 
+
+Sequencer Thread ran at 409 ms and Cycle of sequencer 123 
+
+Task 1 (Frame Sampler thread) Completion Time:411 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:412 ms,Sequencer Thread ran at 412 ms and Cycle of sequencer 124 
+
+ Release count 4 
+
+Sequencer Thread ran at 416 ms and Cycle of sequencer 125 
+
+Sequencer Thread ran at 419 ms and Cycle of sequencer 126 
+
+Sequencer Thread ran at 422 ms and Cycle of sequencer 127 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:424 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:425 ms, Release count 4 Sequencer Thread ran at 426 ms and Cycle of sequencer 128 
+
+
+
+Sequencer Thread ran at 429 ms and Cycle of sequencer 129 
+
+Sequencer Thread ran at 432 ms and Cycle of sequencer 130 
+
+Sequencer Thread ran at 436 ms and Cycle of sequencer 131 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:437 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:438 ms, Release count 13 
+
+Sequencer Thread ran at 439 ms and Cycle of sequencer 132 
+
+Sequencer Thread ran at 442 ms and Cycle of sequencer 133 
+
+Sequencer Thread ran at 446 ms and Cycle of sequencer 134 
+
+Sequencer Thread ran at 449 ms and Cycle of sequencer 135 
+
+Task 1 (Frame Sampler thread) Completion Time:450 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:451 ms, Release count 4 
+
+Sequencer Thread ran at 452 ms and Cycle of sequencer 136 
+
+Sequencer Thread ran at 456 ms and Cycle of sequencer 137 
+
+Sequencer Thread ran at 459 ms and Cycle of sequencer 138 
+
+Sequencer Thread ran at 462 ms and Cycle of sequencer 139 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:463 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:464 ms, Release count 2 
+
+Sequencer Thread ran at 466 ms and Cycle of sequencer 140 
+
+Sequencer Thread ran at 469 ms and Cycle of sequencer 141 
+
+Sequencer Thread ran at 472 ms and Cycle of sequencer 142 
+
+Task 3 (Difference Image Proc threSequencer Thread ran at 476 ms and Cycle of sequencer 143 
+
+ad) Completion Time:476 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:477 ms, Release count 14 
+
+Sequencer Thread ran at 479 ms and Cycle of sequencer 144 
+
+Sequencer Thread ran at 482 ms and Cycle of sequencer 145 
+
+Sequencer Thread ran at 486 ms and Cycle of sequencer 146 
+
+Task 1 (Frame Sampler thread) Completion Time:489 ms, Execution Time:12 ms
+Sequencer Thread ran at 489 ms and Cycle of sequencer 147 
+
+
+Task 5 (Processed Image Save to File thread) Start Time:490 ms, Release count 2 
+
+Sequencer Thread ran at 492 ms and Cycle of sequencer 148 
+
+Sequencer Thread ran at 496 ms and Cycle of sequencer 149 
+
+Sequencer Thread ran at 499 ms and Cycle of sequencer 150 
+
+Task 5 (Processed Image Save to File thread) Completion Time:502 ms, Execution Time:12 ms
+
+Task 1 (Frame SaSequencer Thread ran at 502 ms and Cycle of sequencer 151 
+
+mpler thread) Start Time:502 ms, Release count 15 
+
+Sequencer Thread ran at 506 ms and Cycle of sequencer 152 
+
+Sequencer Thread ran at 509 ms and Cycle of sequencer 153 
+
+Sequencer Thread ran at 512 ms and Cycle of sequencer 154 
+
+Task 1 (Frame Sampler thread) Completion Time:515 ms, Execution Time:13 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:515 ms, Sequencer Thread ran at 516 ms and Cycle of sequencer 155 
+
+Release count 5 
+
+Sequencer Thread ran at 519 ms and Cycle of sequencer 156 
+
+Sequencer Thread ran at 522 ms and Cycle of sequencer 157 
+
+Sequencer Thread ran at 526 ms and Cycle of sequencer 158 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:528 ms, Execution Time:13 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:528 ms, Release count 5 Sequencer Thread ran at 529 ms and Cycle of sequencer 159 
+
+
+
+Sequencer Thread ran at 532 ms and Cycle of sequencer 160 
+
+Sequencer Thread ran at 536 ms and Cycle of sequencer 161 
+
+Sequencer Thread ran at 539 ms and Cycle of sequencer 162 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:541 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:541 ms, Release count 16 
+
+Sequencer Thread ran at 542 ms and Cycle of sequencer 163 
+
+Sequencer Thread ran at 546 ms and Cycle of sequencer 164 
+
+Sequencer Thread ran at 549 ms and Cycle of sequencer 165 
+
+Sequencer Thread ran at 552 ms and Cycle of sequencer 166 
+
+Task 1 (Frame Sampler thread) Completion Time:554 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:554 ms, Release count 5 
+
+Sequencer Thread ran at 556 ms and Cycle of sequencer 167 
+
+Sequencer Thread ran at 559 ms and Cycle of sequencer 168 
+
+Sequencer Thread ran at 562 ms and Cycle of sequencer 169 
+
+Sequencer Thread ran at 566 ms and Cycle of sequencer 170 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:566 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:567 ms, Release count 17 
+
+Sequencer Thread ran at 569 ms and Cycle of sequencer 171 
+
+Sequencer Thread ran at 572 ms and Cycle of sequencer 172 
+
+Sequencer Thread ran at 576 ms and Cycle of sequencer 173 
+
+Task 1 (Frame Sampler thread) Completion TSequencer Thread ran at 579 ms and Cycle of sequencer 174 
+
+ime:579 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 582 ms and Cycle of sequencer 175 
+
+Sequencer Thread ran at 586 ms and Cycle of sequencer 176 
+
+Sequencer Thread ran at 589 ms and Cycle of sequencer 177 
+
+Sequencer Thread ran at 592 ms and Cycle of sequencer 178 
+
+Sequencer Thread ran at 596 ms and Cycle of sequencer 179 
+
+Sequencer Thread ran at 599 ms and Cycle of sequencer 180 
+
+Task 1 (Frame Sampler thread) Start Time:600 ms, Release count 18 
+
+Sequencer Thread ran at 602 ms and Cycle of sequencer 181 
+
+Sequencer Thread ran at 606 ms and Cycle of sequencer 182 
+
+Sequencer Thread ran at 609 ms and Cycle of sequencer 183 
+
+Task 1 (Frame Sampler thread) Completion Time:611 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:612 ms,Sequencer Thread ran at 612 ms and Cycle of sequencer 184 
+
+ Release count 6 
+
+Sequencer Thread ran at 616 ms and Cycle of sequencer 185 
+
+Sequencer Thread ran at 619 ms and Cycle of sequencer 186 
+
+Sequencer Thread ran at 622 ms and Cycle of sequencer 187 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:624 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:625 ms, Release count 6 Sequencer Thread ran at 626 ms and Cycle of sequencer 188 
+
+
+
+Sequencer Thread ran at 629 ms and Cycle of sequencer 189 
+
+Sequencer Thread ran at 632 ms and Cycle of sequencer 190 
+
+Sequencer Thread ran at 636 ms and Cycle of sequencer 191 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:637 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:638 ms, Release count 19 
+
+Sequencer Thread ran at 639 ms and Cycle of sequencer 192 
+
+Sequencer Thread ran at 642 ms and Cycle of sequencer 193 
+
+Sequencer Thread ran at 646 ms and Cycle of sequencer 194 
+
+Sequencer Thread ran at 649 ms and Cycle of sequencer 195 
+
+Task 1 (Frame Sampler thread) Completion Time:650 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:651 ms, Release count 6 
+
+Sequencer Thread ran at 652 ms and Cycle of sequencer 196 
+
+Sequencer Thread ran at 656 ms and Cycle of sequencer 197 
+
+Sequencer Thread ran at 659 ms and Cycle of sequencer 198 
+
+Sequencer Thread ran at 662 ms and Cycle of sequencer 199 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:663 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:664 ms, Release count 3 
+
+Sequencer Thread ran at 666 ms and Cycle of sequencer 200 
+
+Sequencer Thread ran at 669 ms and Cycle of sequencer 201 
+
+Sequencer Thread ran at 672 ms and Cycle of sequencer 202 
+
+Task 3 (Difference Image Proc threSequencer Thread ran at 676 ms and Cycle of sequencer 203 
+
+ad) Completion Time:676 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:677 ms, Release count 20 
+
+Sequencer Thread ran at 679 ms and Cycle of sequencer 204 
+
+Sequencer Thread ran at 682 ms and Cycle of sequencer 205 
+
+Sequencer Thread ran at 686 ms and Cycle of sequencer 206 
+
+Task 1 (Frame Sampler thread) Completion Time:689 ms, Execution Time:12 ms
+Sequencer Thread ran at 689 ms and Cycle of sequencer 207 
+
+
+Task 5 (Processed Image Save to File thread) Start Time:690 ms, Release count 3 
+
+Sequencer Thread ran at 692 ms and Cycle of sequencer 208 
+
+Sequencer Thread ran at 696 ms and Cycle of sequencer 209 
+
+Sequencer Thread ran at 699 ms and Cycle of sequencer 210 
+
+Task 5 (Processed Image Save to File thread) Completion Time:702 ms, Execution Time:12 ms
+
+Task 1 (Frame SaSequencer Thread ran at 702 ms and Cycle of sequencer 211 
+
+mpler thread) Start Time:702 ms, Release count 21 
+
+Sequencer Thread ran at 706 ms and Cycle of sequencer 212 
+
+Sequencer Thread ran at 709 ms and Cycle of sequencer 213 
+
+Sequencer Thread ran at 712 ms and Cycle of sequencer 214 
+
+Task 1 (Frame Sampler thread) Completion Time:715 ms, Execution Time:13 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:715 ms, Sequencer Thread ran at 716 ms and Cycle of sequencer 215 
+
+Release count 7 
+
+Sequencer Thread ran at 719 ms and Cycle of sequencer 216 
+
+Sequencer Thread ran at 722 ms and Cycle of sequencer 217 
+
+Sequencer Thread ran at 726 ms and Cycle of sequencer 218 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:728 ms, Execution Time:13 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:728 ms, Release count 7 Sequencer Thread ran at 729 ms and Cycle of sequencer 219 
+
+
+
+Sequencer Thread ran at 732 ms and Cycle of sequencer 220 
+
+Sequencer Thread ran at 736 ms and Cycle of sequencer 221 
+
+Sequencer Thread ran at 739 ms and Cycle of sequencer 222 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:741 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:741 ms, Release count 22 
+
+Sequencer Thread ran at 742 ms and Cycle of sequencer 223 
+
+Sequencer Thread ran at 746 ms and Cycle of sequencer 224 
+
+Sequencer Thread ran at 749 ms and Cycle of sequencer 225 
+
+Sequencer Thread ran at 752 ms and Cycle of sequencer 226 
+
+Task 1 (Frame Sampler thread) Completion Time:754 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:754 ms, Release count 7 
+
+Sequencer Thread ran at 756 ms and Cycle of sequencer 227 
+
+Sequencer Thread ran at 759 ms and Cycle of sequencer 228 
+
+Sequencer Thread ran at 762 ms and Cycle of sequencer 229 
+
+Sequencer Thread ran at 766 ms and Cycle of sequencer 230 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:766 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:767 ms, Release count 23 
+
+Sequencer Thread ran at 769 ms and Cycle of sequencer 231 
+
+Sequencer Thread ran at 772 ms and Cycle of sequencer 232 
+
+Sequencer Thread ran at 776 ms and Cycle of sequencer 233 
+
+Task 1 (Frame Sampler thread) Completion TSequencer Thread ran at 779 ms and Cycle of sequencer 234 
+
+ime:779 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 782 ms and Cycle of sequencer 235 
+
+Sequencer Thread ran at 786 ms and Cycle of sequencer 236 
+
+Sequencer Thread ran at 789 ms and Cycle of sequencer 237 
+
+Sequencer Thread ran at 792 ms and Cycle of sequencer 238 
+
+Sequencer Thread ran at 796 ms and Cycle of sequencer 239 
+
+Sequencer Thread ran at 799 ms and Cycle of sequencer 240 
+
+Task 1 (Frame Sampler thread) Start Time:800 ms, Release count 24 
+
+Sequencer Thread ran at 802 ms and Cycle of sequencer 241 
+
+Sequencer Thread ran at 806 ms and Cycle of sequencer 242 
+
+Sequencer Thread ran at 809 ms and Cycle of sequencer 243 
+
+Task 1 (Frame Sampler thread) Completion Time:811 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:812 ms,Sequencer Thread ran at 812 ms and Cycle of sequencer 244 
+
+ Release count 8 
+
+Sequencer Thread ran at 816 ms and Cycle of sequencer 245 
+
+Sequencer Thread ran at 819 ms and Cycle of sequencer 246 
+
+Sequencer Thread ran at 822 ms and Cycle of sequencer 247 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:824 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:825 ms, Release count 8 Sequencer Thread ran at 826 ms and Cycle of sequencer 248 
+
+
+
+Sequencer Thread ran at 829 ms and Cycle of sequencer 249 
+
+Sequencer Thread ran at 832 ms and Cycle of sequencer 250 
+
+Sequencer Thread ran at 836 ms and Cycle of sequencer 251 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:837 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:838 ms, Release count 25 
+
+Sequencer Thread ran at 839 ms and Cycle of sequencer 252 
+
+Sequencer Thread ran at 842 ms and Cycle of sequencer 253 
+
+Sequencer Thread ran at 846 ms and Cycle of sequencer 254 
+
+Sequencer Thread ran at 849 ms and Cycle of sequencer 255 
+
+Task 1 (Frame Sampler thread) Completion Time:850 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:851 ms, Release count 8 
+
+Sequencer Thread ran at 852 ms and Cycle of sequencer 256 
+
+Sequencer Thread ran at 856 ms and Cycle of sequencer 257 
+
+Sequencer Thread ran at 859 ms and Cycle of sequencer 258 
+
+Sequencer Thread ran at 862 ms and Cycle of sequencer 259 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:863 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:864 ms, Release count 4 
+
+Sequencer Thread ran at 866 ms and Cycle of sequencer 260 
+
+Sequencer Thread ran at 869 ms and Cycle of sequencer 261 
+
+Sequencer Thread ran at 872 ms and Cycle of sequencer 262 
+
+Task 3 (Difference Image Proc threSequencer Thread ran at 876 ms and Cycle of sequencer 263 
+
+ad) Completion Time:876 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:877 ms, Release count 26 
+
+Sequencer Thread ran at 879 ms and Cycle of sequencer 264 
+
+Sequencer Thread ran at 882 ms and Cycle of sequencer 265 
+
+Sequencer Thread ran at 886 ms and Cycle of sequencer 266 
+
+Task 1 (Frame Sampler thread) Completion Time:889 ms, Execution Time:12 ms
+Sequencer Thread ran at 889 ms and Cycle of sequencer 267 
+
+
+Task 5 (Processed Image Save to File thread) Start Time:890 ms, Release count 4 
+
+Sequencer Thread ran at 892 ms and Cycle of sequencer 268 
+
+Sequencer Thread ran at 896 ms and Cycle of sequencer 269 
+
+Sequencer Thread ran at 899 ms and Cycle of sequencer 270 
+
+Task 5 (Processed Image Save to File thread) Completion Time:902 ms, Execution Time:12 ms
+
+Task 1 (Frame SaSequencer Thread ran at 902 ms and Cycle of sequencer 271 
+
+mpler thread) Start Time:902 ms, Release count 27 
+
+Sequencer Thread ran at 906 ms and Cycle of sequencer 272 
+
+Sequencer Thread ran at 909 ms and Cycle of sequencer 273 
+
+Sequencer Thread ran at 912 ms and Cycle of sequencer 274 
+
+Task 1 (Frame Sampler thread) Completion Time:915 ms, Execution Time:13 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:915 ms, Sequencer Thread ran at 916 ms and Cycle of sequencer 275 
+
+Release count 9 
+
+Sequencer Thread ran at 919 ms and Cycle of sequencer 276 
+
+Sequencer Thread ran at 922 ms and Cycle of sequencer 277 
+
+Sequencer Thread ran at 926 ms and Cycle of sequencer 278 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:928 ms, Execution Time:13 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:928 ms, Release count 9 Sequencer Thread ran at 929 ms and Cycle of sequencer 279 
+
+
+
+Sequencer Thread ran at 932 ms and Cycle of sequencer 280 
+
+Sequencer Thread ran at 936 ms and Cycle of sequencer 281 
+
+Sequencer Thread ran at 939 ms and Cycle of sequencer 282 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:941 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:941 ms, Release count 28 
+
+Sequencer Thread ran at 942 ms and Cycle of sequencer 283 
+
+Sequencer Thread ran at 946 ms and Cycle of sequencer 284 
+
+Sequencer Thread ran at 949 ms and Cycle of sequencer 285 
+
+Sequencer Thread ran at 952 ms and Cycle of sequencer 286 
+
+Task 1 (Frame Sampler thread) Completion Time:954 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:954 ms, Release count 9 
+
+Sequencer Thread ran at 956 ms and Cycle of sequencer 287 
+
+Sequencer Thread ran at 959 ms and Cycle of sequencer 288 
+
+Sequencer Thread ran at 962 ms and Cycle of sequencer 289 
+
+Sequencer Thread ran at 966 ms and Cycle of sequencer 290 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:966 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:967 ms, Release count 29 
+
+Sequencer Thread ran at 969 ms and Cycle of sequencer 291 
+
+Sequencer Thread ran at 972 ms and Cycle of sequencer 292 
+
+Sequencer Thread ran at 976 ms and Cycle of sequencer 293 
+
+Task 1 (Frame Sampler thread) Completion TSequencer Thread ran at 979 ms and Cycle of sequencer 294 
+
+ime:979 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 982 ms and Cycle of sequencer 295 
+
+Sequencer Thread ran at 986 ms and Cycle of sequencer 296 
+
+Sequencer Thread ran at 989 ms and Cycle of sequencer 297 
+
+Sequencer Thread ran at 992 ms and Cycle of sequencer 298 
+
+Sequencer Thread ran at 996 ms and Cycle of sequencer 299 
+
+Sequencer Thread ran at 999 ms and Cycle of sequencer 300 
+
+Task 1 (Frame Sampler thread) Start Time:1000 ms, Release count 30 
+
+Sequencer Thread ran at 1002 ms and Cycle of sequencer 301 
+
+Sequencer Thread ran at 1006 ms and Cycle of sequencer 302 
+
+Sequencer Thread ran at 1009 ms and Cycle of sequencer 303 
+
+Task 1 (Frame Sampler thread) Completion Time:1011 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:10Sequencer Thread ran at 1012 ms and Cycle of sequencer 304 
+
+12 ms, Release count 10 
+
+Sequencer Thread ran at 1016 ms and Cycle of sequencer 305 
+
+Sequencer Thread ran at 1019 ms and Cycle of sequencer 306 
+
+Sequencer Thread ran at 1022 ms and Cycle of sequencer 307 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1024 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:1025 ms, RelSequencer Thread ran at 1026 ms and Cycle of sequencer 308 
+
+ease count 10 
+
+Sequencer Thread ran at 1029 ms and Cycle of sequencer 309 
+
+Sequencer Thread ran at 1032 ms and Cycle of sequencer 310 
+
+Sequencer Thread ran at 1036 ms and Cycle of sequencer 311 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1038 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1038 ms, Release count 31 
+
+Sequencer Thread ran at 1039 ms and Cycle of sequencer 312 
+
+Sequencer Thread ran at 1042 ms and Cycle of sequencer 313 
+
+Sequencer Thread ran at 1046 ms and Cycle of sequencer 314 
+
+Sequencer Thread ran at 1049 ms and Cycle of sequencer 315 
+
+Task 1 (Frame Sampler thread) Completion Time:1051 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1051 ms, Release count 10 
+
+Sequencer Thread ran at 1052 ms and Cycle of sequencer 316 
+
+Sequencer Thread ran at 1056 ms and Cycle of sequencer 317 
+
+Sequencer Thread ran at 1059 ms and Cycle of sequencer 318 
+
+Sequencer Thread ran at 1062 ms and Cycle of sequencer 319 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1063 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:1064 ms, Release count 5 
+
+Sequencer Thread ran at 1066 ms and Cycle of sequencer 320 
+
+Sequencer Thread ran at 1069 ms and Cycle of sequencer 321 
+
+Sequencer Thread ran at 1072 ms and Cycle of sequencer 322 
+
+Sequencer Thread ran at 1076 ms and Cycle of sequencer 323 
+
+Task 3 (Difference Image Proc thread) Completion Time:1076 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1077 ms, Release count 32 
+
+Sequencer Thread ran at 1079 ms and Cycle of sequencer 324 
+
+Sequencer Thread ran at 1082 ms and Cycle of sequencer 325 
+
+Sequencer Thread ran at 1086 ms and Cycle of sequencer 326 
+
+Task 1 (Frame Sampler thread) Completion Sequencer Thread ran at 1089 ms and Cycle of sequencer 327 
+
+Time:1089 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:1090 ms, Release count 5 
+
+Sequencer Thread ran at 1092 ms and Cycle of sequencer 328 
+
+Sequencer Thread ran at 1096 ms and Cycle of sequencer 329 
+
+Sequencer Thread ran at 1099 ms and Cycle of sequencer 330 
+
+Task 5 (Processed Image Save to File thread) Completion Time:1102 msSequencer Thread ran at 1102 ms and Cycle of sequencer 331 
+
+ Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1103 ms, Release count 33 
+
+Sequencer Thread ran at 1106 ms and Cycle of sequencer 332 
+
+Sequencer Thread ran at 1109 ms and Cycle of sequencer 333 
+
+Sequencer Thread ran at 1112 ms and Cycle of sequencer 334 
+
+Task 1 (Frame Sampler thread) Completion Time:1115 ms, Execution Time:12 ms
+
+Task 2 (Time-stamp wSequencer Thread ran at 1116 ms and Cycle of sequencer 335 
+
+ith Image Analysis thread) Start Time:1116 ms, Release count 11 
+
+Sequencer Thread ran at 1119 ms and Cycle of sequencer 336 
+
+Sequencer Thread ran at 1122 ms and Cycle of sequencer 337 
+
+Sequencer Thread ran at 1126 ms and Cycle of sequencer 338 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1128 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image SaveSequencer Thread ran at 1129 ms and Cycle of sequencer 339 
+
+ to File thread) Start Time:1129 ms, Release count 11 
+
+Sequencer Thread ran at 1132 ms and Cycle of sequencer 340 
+
+Sequencer Thread ran at 1136 ms and Cycle of sequencer 341 
+
+Sequencer Thread ran at 1139 ms and Cycle of sequencer 342 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1141 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) Start TiSequencer Thread ran at 1142 ms and Cycle of sequencer 343 
+
+me:1142 ms, Release count 34 
+
+Sequencer Thread ran at 1146 ms and Cycle of sequencer 344 
+
+Sequencer Thread ran at 1149 ms and Cycle of sequencer 345 
+
+Sequencer Thread ran at 1152 ms and Cycle of sequencer 346 
+
+Task 1 (Frame Sampler thread) Completion Time:1154 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1155 ms, Release couSequencer Thread ran at 1156 ms and Cycle of sequencer 347 
+
+nt 11 
+
+Sequencer Thread ran at 1159 ms and Cycle of sequencer 348 
+
+Sequencer Thread ran at 1162 ms and Cycle of sequencer 349 
+
+Sequencer Thread ran at 1166 ms and Cycle of sequencer 350 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1167 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1168 ms, Release count 35 
+
+Sequencer Thread ran at 1169 ms and Cycle of sequencer 351 
+
+Sequencer Thread ran at 1172 ms and Cycle of sequencer 352 
+
+Sequencer Thread ran at 1176 ms and Cycle of sequencer 353 
+
+Sequencer Thread ran at 1179 ms and Cycle of sequencer 354 
+
+Task 1 (Frame Sampler thread) Completion Time:1180 ms, Execution Time:12 ms
+
+Task 7 (10 sec Tick Debug thread) Start Time:1181 ms , Release count 1 
+
+Sequencer Thread ran at 1182 ms and Cycle of sequencer 355 
+
+Sequencer Thread ran at 1186 ms and Cycle of sequencer 356 
+
+Sequencer Thread ran at 1189 ms and Cycle of sequencer 357 
+
+Sequencer Thread ran at 1192 ms and Cycle of sequencer 358 
+
+Task 7 (10 sec Tick Debug thread) Completion Time:1193 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 1196 ms and Cycle of sequencer 359 
+
+Sequencer Thread ran at 1199 ms and Cycle of sequencer 360 
+
+Task 1 (Frame Sampler thread) Start Time:1200 ms, Release count 36 
+
+Sequencer Thread ran at 1202 ms and Cycle of sequencer 361 
+
+Sequencer Thread ran at 1206 ms and Cycle of sequencer 362 
+
+Sequencer Thread ran at 1209 ms and Cycle of sequencer 363 
+
+Task 1 (Frame Sampler thread) Completion Time:1211 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:1Sequencer Thread ran at 1212 ms and Cycle of sequencer 364 
+
+212 ms, Release count 12 
+
+Sequencer Thread ran at 1216 ms and Cycle of sequencer 365 
+
+Sequencer Thread ran at 1219 ms and Cycle of sequencer 366 
+
+Sequencer Thread ran at 1222 ms and Cycle of sequencer 367 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1224 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:1225 ms, ReSequencer Thread ran at 1226 ms and Cycle of sequencer 368 
+
+lease count 12 
+
+Sequencer Thread ran at 1229 ms and Cycle of sequencer 369 
+
+Sequencer Thread ran at 1232 ms and Cycle of sequencer 370 
+
+Sequencer Thread ran at 1236 ms and Cycle of sequencer 371 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1238 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1238 ms, Release count 37 
+
+Sequencer Thread ran at 1239 ms and Cycle of sequencer 372 
+
+Sequencer Thread ran at 1242 ms and Cycle of sequencer 373 
+
+Sequencer Thread ran at 1246 ms and Cycle of sequencer 374 
+
+Sequencer Thread ran at 1249 ms and Cycle of sequencer 375 
+
+Task 1 (Frame Sampler thread) Completion Time:1251 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1251 ms, Release count 12 
+
+Sequencer Thread ran at 1252 ms and Cycle of sequencer 376 
+
+Sequencer Thread ran at 1256 ms and Cycle of sequencer 377 
+
+Sequencer Thread ran at 1259 ms and Cycle of sequencer 378 
+
+Sequencer Thread ran at 1262 ms and Cycle of sequencer 379 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1263 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:1264 ms, Release count 6 
+
+Sequencer Thread ran at 1266 ms and Cycle of sequencer 380 
+
+Sequencer Thread ran at 1269 ms and Cycle of sequencer 381 
+
+Sequencer Thread ran at 1272 ms and Cycle of sequencer 382 
+
+Sequencer Thread ran at 1276 ms and Cycle of sequencer 383 
+
+Task 3 (Difference Image Proc thread) Completion Time:1277 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1277 ms, Release count 38 
+
+Sequencer Thread ran at 1279 ms and Cycle of sequencer 384 
+
+Sequencer Thread ran at 1282 ms and Cycle of sequencer 385 
+
+Sequencer Thread ran at 1286 ms and Cycle of sequencer 386 
+
+Task 1 (Frame Sampler thread) CompletioSequencer Thread ran at 1289 ms and Cycle of sequencer 387 
+
+n Time:1289 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:1290 ms, Release count 6 
+
+Sequencer Thread ran at 1292 ms and Cycle of sequencer 388 
+
+Sequencer Thread ran at 1296 ms and Cycle of sequencer 389 
+
+Sequencer Thread ran at 1299 ms and Cycle of sequencer 390 
+
+Task 5 (Processed Image Save to File thread) Completion Time:1302 Sequencer Thread ran at 1302 ms and Cycle of sequencer 391 
+
+ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1303 ms, Release count 39 
+
+Sequencer Thread ran at 1306 ms and Cycle of sequencer 392 
+
+Sequencer Thread ran at 1309 ms and Cycle of sequencer 393 
+
+Sequencer Thread ran at 1312 ms and Cycle of sequencer 394 
+
+Task 1 (Frame Sampler thread) Completion Time:1315 ms, Execution Time:12 ms
+
+Task 2 (Time-stamSequencer Thread ran at 1316 ms and Cycle of sequencer 395 
+
+p with Image Analysis thread) Start Time:1316 ms, Release count 13 
+
+Sequencer Thread ran at 1319 ms and Cycle of sequencer 396 
+
+Sequencer Thread ran at 1322 ms and Cycle of sequencer 397 
+
+Sequencer Thread ran at 1326 ms and Cycle of sequencer 398 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1328 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Sequencer Thread ran at 1329 ms and Cycle of sequencer 399 
+
+Save to File thread) Start Time:1329 ms, Release count 13 
+
+Sequencer Thread ran at 1332 ms and Cycle of sequencer 400 
+
+Sequencer Thread ran at 1336 ms and Cycle of sequencer 401 
+
+Sequencer Thread ran at 1339 ms and Cycle of sequencer 402 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1341 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StartSequencer Thread ran at 1342 ms and Cycle of sequencer 403 
+
+ Time:1342 ms, Release count 40 
+
+Sequencer Thread ran at 1346 ms and Cycle of sequencer 404 
+
+Sequencer Thread ran at 1349 ms and Cycle of sequencer 405 
+
+Sequencer Thread ran at 1352 ms and Cycle of sequencer 406 
+
+Task 1 (Frame Sampler thread) Completion Time:1354 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1355 ms, Release Sequencer Thread ran at 1356 ms and Cycle of sequencer 407 
+
+count 13 
+
+Sequencer Thread ran at 1359 ms and Cycle of sequencer 408 
+
+Sequencer Thread ran at 1362 ms and Cycle of sequencer 409 
+
+Sequencer Thread ran at 1366 ms and Cycle of sequencer 410 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1367 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1368 ms, Release count 41 
+
+Sequencer Thread ran at 1369 ms and Cycle of sequencer 411 
+
+Sequencer Thread ran at 1372 ms and Cycle of sequencer 412 
+
+Sequencer Thread ran at 1376 ms and Cycle of sequencer 413 
+
+Sequencer Thread ran at 1379 ms and Cycle of sequencer 414 
+
+Task 1 (Frame Sampler thread) Completion Time:1380 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 1382 ms and Cycle of sequencer 415 
+
+Sequencer Thread ran at 1386 ms and Cycle of sequencer 416 
+
+Sequencer Thread ran at 1389 ms and Cycle of sequencer 417 
+
+Sequencer Thread ran at 1392 ms and Cycle of sequencer 418 
+
+Sequencer Thread ran at 1396 ms and Cycle of sequencer 419 
+
+Sequencer Thread ran at 1399 ms and Cycle of sequencer 420 
+
+Task 1 (Frame Sampler thread) Start Time:1400 ms, Release count 42 
+
+Sequencer Thread ran at 1402 ms and Cycle of sequencer 421 
+
+Sequencer Thread ran at 1406 ms and Cycle of sequencer 422 
+
+Sequencer Thread ran at 1409 ms and Cycle of sequencer 423 
+
+Task 1 (Frame Sampler thread) Completion Time:1411 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:1Sequencer Thread ran at 1412 ms and Cycle of sequencer 424 
+
+412 ms, Release count 14 
+
+Sequencer Thread ran at 1416 ms and Cycle of sequencer 425 
+
+Sequencer Thread ran at 1419 ms and Cycle of sequencer 426 
+
+Sequencer Thread ran at 1422 ms and Cycle of sequencer 427 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1424 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:1425 ms, ReSequencer Thread ran at 1426 ms and Cycle of sequencer 428 
+
+lease count 14 
+
+Sequencer Thread ran at 1429 ms and Cycle of sequencer 429 
+
+Sequencer Thread ran at 1432 ms and Cycle of sequencer 430 
+
+Sequencer Thread ran at 1436 ms and Cycle of sequencer 431 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1438 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1438 ms, Release count 43 
+
+Sequencer Thread ran at 1439 ms and Cycle of sequencer 432 
+
+Sequencer Thread ran at 1442 ms and Cycle of sequencer 433 
+
+Sequencer Thread ran at 1446 ms and Cycle of sequencer 434 
+
+Sequencer Thread ran at 1449 ms and Cycle of sequencer 435 
+
+Task 1 (Frame Sampler thread) Completion Time:1451 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1451 ms, Release count 14 
+
+Sequencer Thread ran at 1452 ms and Cycle of sequencer 436 
+
+Sequencer Thread ran at 1456 ms and Cycle of sequencer 437 
+
+Sequencer Thread ran at 1459 ms and Cycle of sequencer 438 
+
+Sequencer Thread ran at 1462 ms and Cycle of sequencer 439 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1463 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:1464 ms, Release count 7 
+
+Sequencer Thread ran at 1466 ms and Cycle of sequencer 440 
+
+Sequencer Thread ran at 1469 ms and Cycle of sequencer 441 
+
+Sequencer Thread ran at 1472 ms and Cycle of sequencer 442 
+
+Sequencer Thread ran at 1476 ms and Cycle of sequencer 443 
+
+Task 3 (Difference Image Proc thread) Completion Time:1477 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1477 ms, Release count 44 
+
+Sequencer Thread ran at 1479 ms and Cycle of sequencer 444 
+
+Sequencer Thread ran at 1482 ms and Cycle of sequencer 445 
+
+Sequencer Thread ran at 1486 ms and Cycle of sequencer 446 
+
+Task 1 (Frame Sampler thread) CompletioSequencer Thread ran at 1489 ms and Cycle of sequencer 447 
+
+n Time:1489 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:1490 ms, Release count 7 
+
+Sequencer Thread ran at 1492 ms and Cycle of sequencer 448 
+
+Sequencer Thread ran at 1496 ms and Cycle of sequencer 449 
+
+Sequencer Thread ran at 1499 ms and Cycle of sequencer 450 
+
+Task 5 (Processed Image Save to File thread) Completion Time:1502 Sequencer Thread ran at 1502 ms and Cycle of sequencer 451 
+
+ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1503 ms, Release count 45 
+
+Sequencer Thread ran at 1506 ms and Cycle of sequencer 452 
+
+Sequencer Thread ran at 1509 ms and Cycle of sequencer 453 
+
+Sequencer Thread ran at 1512 ms and Cycle of sequencer 454 
+
+Task 1 (Frame Sampler thread) Completion Time:1515 ms, Execution Time:12 ms
+
+Task 2 (Time-stamSequencer Thread ran at 1516 ms and Cycle of sequencer 455 
+
+p with Image Analysis thread) Start Time:1516 ms, Release count 15 
+
+Sequencer Thread ran at 1519 ms and Cycle of sequencer 456 
+
+Sequencer Thread ran at 1522 ms and Cycle of sequencer 457 
+
+Sequencer Thread ran at 1526 ms and Cycle of sequencer 458 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1528 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Sequencer Thread ran at 1529 ms and Cycle of sequencer 459 
+
+Save to File thread) Start Time:1529 ms, Release count 15 
+
+Sequencer Thread ran at 1532 ms and Cycle of sequencer 460 
+
+Sequencer Thread ran at 1536 ms and Cycle of sequencer 461 
+
+Sequencer Thread ran at 1539 ms and Cycle of sequencer 462 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1541 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StartSequencer Thread ran at 1542 ms and Cycle of sequencer 463 
+
+ Time:1542 ms, Release count 46 
+
+Sequencer Thread ran at 1546 ms and Cycle of sequencer 464 
+
+Sequencer Thread ran at 1549 ms and Cycle of sequencer 465 
+
+Sequencer Thread ran at 1552 ms and Cycle of sequencer 466 
+
+Task 1 (Frame Sampler thread) Completion Time:1554 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1555 ms, Release Sequencer Thread ran at 1556 ms and Cycle of sequencer 467 
+
+count 15 
+
+Sequencer Thread ran at 1559 ms and Cycle of sequencer 468 
+
+Sequencer Thread ran at 1562 ms and Cycle of sequencer 469 
+
+Sequencer Thread ran at 1566 ms and Cycle of sequencer 470 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1567 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1568 ms, Release count 47 
+
+Sequencer Thread ran at 1569 ms and Cycle of sequencer 471 
+
+Sequencer Thread ran at 1572 ms and Cycle of sequencer 472 
+
+Sequencer Thread ran at 1576 ms and Cycle of sequencer 473 
+
+Sequencer Thread ran at 1579 ms and Cycle of sequencer 474 
+
+Task 1 (Frame Sampler thread) Completion Time:1580 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 1582 ms and Cycle of sequencer 475 
+
+Sequencer Thread ran at 1586 ms and Cycle of sequencer 476 
+
+Sequencer Thread ran at 1589 ms and Cycle of sequencer 477 
+
+Sequencer Thread ran at 1592 ms and Cycle of sequencer 478 
+
+Sequencer Thread ran at 1596 ms and Cycle of sequencer 479 
+
+Sequencer Thread ran at 1599 ms and Cycle of sequencer 480 
+
+Task 1 (Frame Sampler thread) Start Time:1600 ms, Release count 48 
+
+Sequencer Thread ran at 1602 ms and Cycle of sequencer 481 
+
+Sequencer Thread ran at 1606 ms and Cycle of sequencer 482 
+
+Sequencer Thread ran at 1609 ms and Cycle of sequencer 483 
+
+Task 1 (Frame Sampler thread) Completion Time:1611 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:1Sequencer Thread ran at 1612 ms and Cycle of sequencer 484 
+
+612 ms, Release count 16 
+
+Sequencer Thread ran at 1616 ms and Cycle of sequencer 485 
+
+Sequencer Thread ran at 1619 ms and Cycle of sequencer 486 
+
+Sequencer Thread ran at 1622 ms and Cycle of sequencer 487 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1624 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:1625 ms, ReSequencer Thread ran at 1626 ms and Cycle of sequencer 488 
+
+lease count 16 
+
+Sequencer Thread ran at 1629 ms and Cycle of sequencer 489 
+
+Sequencer Thread ran at 1632 ms and Cycle of sequencer 490 
+
+Sequencer Thread ran at 1636 ms and Cycle of sequencer 491 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1638 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1638 ms, Release count 49 
+
+Sequencer Thread ran at 1639 ms and Cycle of sequencer 492 
+
+Sequencer Thread ran at 1642 ms and Cycle of sequencer 493 
+
+Sequencer Thread ran at 1646 ms and Cycle of sequencer 494 
+
+Sequencer Thread ran at 1649 ms and Cycle of sequencer 495 
+
+Task 1 (Frame Sampler thread) Completion Time:1651 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1651 ms, Release count 16 
+
+Sequencer Thread ran at 1652 ms and Cycle of sequencer 496 
+
+Sequencer Thread ran at 1656 ms and Cycle of sequencer 497 
+
+Sequencer Thread ran at 1659 ms and Cycle of sequencer 498 
+
+Sequencer Thread ran at 1662 ms and Cycle of sequencer 499 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1663 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:1664 ms, Release count 8 
+
+Sequencer Thread ran at 1666 ms and Cycle of sequencer 500 
+
+Sequencer Thread ran at 1669 ms and Cycle of sequencer 501 
+
+Sequencer Thread ran at 1672 ms and Cycle of sequencer 502 
+
+Sequencer Thread ran at 1676 ms and Cycle of sequencer 503 
+
+Task 3 (Difference Image Proc thread) Completion Time:1677 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1677 ms, Release count 50 
+
+Sequencer Thread ran at 1679 ms and Cycle of sequencer 504 
+
+Sequencer Thread ran at 1682 ms and Cycle of sequencer 505 
+
+Sequencer Thread ran at 1686 ms and Cycle of sequencer 506 
+
+Task 1 (Frame Sampler thread) CompletioSequencer Thread ran at 1689 ms and Cycle of sequencer 507 
+
+n Time:1689 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:1690 ms, Release count 8 
+
+Sequencer Thread ran at 1692 ms and Cycle of sequencer 508 
+
+Sequencer Thread ran at 1696 ms and Cycle of sequencer 509 
+
+Sequencer Thread ran at 1699 ms and Cycle of sequencer 510 
+
+Task 5 (Processed Image Save to File thread) Completion Time:1702 Sequencer Thread ran at 1702 ms and Cycle of sequencer 511 
+
+ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1703 ms, Release count 51 
+
+Sequencer Thread ran at 1706 ms and Cycle of sequencer 512 
+
+Sequencer Thread ran at 1709 ms and Cycle of sequencer 513 
+
+Sequencer Thread ran at 1712 ms and Cycle of sequencer 514 
+
+Task 1 (Frame Sampler thread) Completion Time:1715 ms, Execution Time:12 ms
+
+Task 2 (Time-stamSequencer Thread ran at 1716 ms and Cycle of sequencer 515 
+
+p with Image Analysis thread) Start Time:1716 ms, Release count 17 
+
+Sequencer Thread ran at 1719 ms and Cycle of sequencer 516 
+
+Sequencer Thread ran at 1722 ms and Cycle of sequencer 517 
+
+Sequencer Thread ran at 1726 ms and Cycle of sequencer 518 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1728 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Sequencer Thread ran at 1729 ms and Cycle of sequencer 519 
+
+Save to File thread) Start Time:1729 ms, Release count 17 
+
+Sequencer Thread ran at 1732 ms and Cycle of sequencer 520 
+
+Sequencer Thread ran at 1736 ms and Cycle of sequencer 521 
+
+Sequencer Thread ran at 1739 ms and Cycle of sequencer 522 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1741 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StartSequencer Thread ran at 1742 ms and Cycle of sequencer 523 
+
+ Time:1742 ms, Release count 52 
+
+Sequencer Thread ran at 1746 ms and Cycle of sequencer 524 
+
+Sequencer Thread ran at 1749 ms and Cycle of sequencer 525 
+
+Sequencer Thread ran at 1752 ms and Cycle of sequencer 526 
+
+Task 1 (Frame Sampler thread) Completion Time:1754 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1755 ms, Release Sequencer Thread ran at 1756 ms and Cycle of sequencer 527 
+
+count 17 
+
+Sequencer Thread ran at 1759 ms and Cycle of sequencer 528 
+
+Sequencer Thread ran at 1762 ms and Cycle of sequencer 529 
+
+Sequencer Thread ran at 1766 ms and Cycle of sequencer 530 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1767 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1768 ms, Release count 53 
+
+Sequencer Thread ran at 1769 ms and Cycle of sequencer 531 
+
+Sequencer Thread ran at 1772 ms and Cycle of sequencer 532 
+
+Sequencer Thread ran at 1776 ms and Cycle of sequencer 533 
+
+Sequencer Thread ran at 1779 ms and Cycle of sequencer 534 
+
+Task 1 (Frame Sampler thread) Completion Time:1780 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 1782 ms and Cycle of sequencer 535 
+
+Sequencer Thread ran at 1786 ms and Cycle of sequencer 536 
+
+Sequencer Thread ran at 1789 ms and Cycle of sequencer 537 
+
+Sequencer Thread ran at 1792 ms and Cycle of sequencer 538 
+
+Sequencer Thread ran at 1796 ms and Cycle of sequencer 539 
+
+Sequencer Thread ran at 1799 ms and Cycle of sequencer 540 
+
+Task 1 (Frame Sampler thread) Start Time:1800 ms, Release count 54 
+
+Sequencer Thread ran at 1802 ms and Cycle of sequencer 541 
+
+Sequencer Thread ran at 1806 ms and Cycle of sequencer 542 
+
+Sequencer Thread ran at 1809 ms and Cycle of sequencer 543 
+
+Task 1 (Frame Sampler thread) Completion Time:1811 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:1Sequencer Thread ran at 1812 ms and Cycle of sequencer 544 
+
+812 ms, Release count 18 
+
+Sequencer Thread ran at 1816 ms and Cycle of sequencer 545 
+
+Sequencer Thread ran at 1819 ms and Cycle of sequencer 546 
+
+Sequencer Thread ran at 1822 ms and Cycle of sequencer 547 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1824 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:1825 ms, ReSequencer Thread ran at 1826 ms and Cycle of sequencer 548 
+
+lease count 18 
+
+Sequencer Thread ran at 1829 ms and Cycle of sequencer 549 
+
+Sequencer Thread ran at 1832 ms and Cycle of sequencer 550 
+
+Sequencer Thread ran at 1836 ms and Cycle of sequencer 551 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1838 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1838 ms, Release count 55 
+
+Sequencer Thread ran at 1839 ms and Cycle of sequencer 552 
+
+Sequencer Thread ran at 1842 ms and Cycle of sequencer 553 
+
+Sequencer Thread ran at 1846 ms and Cycle of sequencer 554 
+
+Sequencer Thread ran at 1849 ms and Cycle of sequencer 555 
+
+Task 1 (Frame Sampler thread) Completion Time:1851 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1851 ms, Release count 18 
+
+Sequencer Thread ran at 1852 ms and Cycle of sequencer 556 
+
+Sequencer Thread ran at 1856 ms and Cycle of sequencer 557 
+
+Sequencer Thread ran at 1859 ms and Cycle of sequencer 558 
+
+Sequencer Thread ran at 1862 ms and Cycle of sequencer 559 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1863 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:1864 ms, Release count 9 
+
+Sequencer Thread ran at 1866 ms and Cycle of sequencer 560 
+
+Sequencer Thread ran at 1869 ms and Cycle of sequencer 561 
+
+Sequencer Thread ran at 1872 ms and Cycle of sequencer 562 
+
+Sequencer Thread ran at 1876 ms and Cycle of sequencer 563 
+
+Task 3 (Difference Image Proc thread) Completion Time:1877 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:1877 ms, Release count 56 
+
+Sequencer Thread ran at 1879 ms and Cycle of sequencer 564 
+
+Sequencer Thread ran at 1882 ms and Cycle of sequencer 565 
+
+Sequencer Thread ran at 1886 ms and Cycle of sequencer 566 
+
+Task 1 (Frame Sampler thread) CompletioSequencer Thread ran at 1889 ms and Cycle of sequencer 567 
+
+n Time:1889 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:1890 ms, Release count 9 
+
+Sequencer Thread ran at 1892 ms and Cycle of sequencer 568 
+
+Sequencer Thread ran at 1896 ms and Cycle of sequencer 569 
+
+Sequencer Thread ran at 1899 ms and Cycle of sequencer 570 
+
+Task 5 (Processed Image Save to File thread) Completion Time:1902 Sequencer Thread ran at 1902 ms and Cycle of sequencer 571 
+
+ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1903 ms, Release count 57 
+
+Sequencer Thread ran at 1906 ms and Cycle of sequencer 572 
+
+Sequencer Thread ran at 1909 ms and Cycle of sequencer 573 
+
+Sequencer Thread ran at 1912 ms and Cycle of sequencer 574 
+
+Task 1 (Frame Sampler thread) Completion Time:1915 ms, Execution Time:12 ms
+
+Task 2 (Time-stamSequencer Thread ran at 1916 ms and Cycle of sequencer 575 
+
+p with Image Analysis thread) Start Time:1916 ms, Release count 19 
+
+Sequencer Thread ran at 1919 ms and Cycle of sequencer 576 
+
+Sequencer Thread ran at 1922 ms and Cycle of sequencer 577 
+
+Sequencer Thread ran at 1926 ms and Cycle of sequencer 578 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:1928 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Sequencer Thread ran at 1929 ms and Cycle of sequencer 579 
+
+Save to File thread) Start Time:1929 ms, Release count 19 
+
+Sequencer Thread ran at 1932 ms and Cycle of sequencer 580 
+
+Sequencer Thread ran at 1936 ms and Cycle of sequencer 581 
+
+Sequencer Thread ran at 1939 ms and Cycle of sequencer 582 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:1941 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StartSequencer Thread ran at 1942 ms and Cycle of sequencer 583 
+
+ Time:1942 ms, Release count 58 
+
+Sequencer Thread ran at 1946 ms and Cycle of sequencer 584 
+
+Sequencer Thread ran at 1949 ms and Cycle of sequencer 585 
+
+Sequencer Thread ran at 1952 ms and Cycle of sequencer 586 
+
+Task 1 (Frame Sampler thread) Completion Time:1954 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:1955 ms, Release Sequencer Thread ran at 1956 ms and Cycle of sequencer 587 
+
+count 19 
+
+Sequencer Thread ran at 1959 ms and Cycle of sequencer 588 
+
+Sequencer Thread ran at 1962 ms and Cycle of sequencer 589 
+
+Sequencer Thread ran at 1966 ms and Cycle of sequencer 590 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:1967 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:1968 ms, Release count 59 
+
+Sequencer Thread ran at 1969 ms and Cycle of sequencer 591 
+
+Sequencer Thread ran at 1972 ms and Cycle of sequencer 592 
+
+Sequencer Thread ran at 1976 ms and Cycle of sequencer 593 
+
+Sequencer Thread ran at 1979 ms and Cycle of sequencer 594 
+
+Task 1 (Frame Sampler thread) Completion Time:1980 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 1982 ms and Cycle of sequencer 595 
+
+Sequencer Thread ran at 1986 ms and Cycle of sequencer 596 
+
+Sequencer Thread ran at 1989 ms and Cycle of sequencer 597 
+
+Sequencer Thread ran at 1992 ms and Cycle of sequencer 598 
+
+Sequencer Thread ran at 1996 ms and Cycle of sequencer 599 
+
+Sequencer Thread ran at 1999 ms and Cycle of sequencer 600 
+
+Task 1 (Frame Sampler thread) Start Time:2000 ms, Release count 60 
+
+Sequencer Thread ran at 2002 ms and Cycle of sequencer 601 
+
+Sequencer Thread ran at 2006 ms and Cycle of sequencer 602 
+
+Sequencer Thread ran at 2009 ms and Cycle of sequencer 603 
+
+Task 1 (Frame Sampler thread) Completion Time:2011 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:2Sequencer Thread ran at 2012 ms and Cycle of sequencer 604 
+
+012 ms, Release count 20 
+
+Sequencer Thread ran at 2016 ms and Cycle of sequencer 605 
+
+Sequencer Thread ran at 2019 ms and Cycle of sequencer 606 
+
+Sequencer Thread ran at 2022 ms and Cycle of sequencer 607 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2024 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:2025 ms, ReSequencer Thread ran at 2026 ms and Cycle of sequencer 608 
+
+lease count 20 
+
+Sequencer Thread ran at 2029 ms and Cycle of sequencer 609 
+
+Sequencer Thread ran at 2032 ms and Cycle of sequencer 610 
+
+Sequencer Thread ran at 2036 ms and Cycle of sequencer 611 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2038 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2038 ms, Release count 61 
+
+Sequencer Thread ran at 2039 ms and Cycle of sequencer 612 
+
+Sequencer Thread ran at 2042 ms and Cycle of sequencer 613 
+
+Sequencer Thread ran at 2046 ms and Cycle of sequencer 614 
+
+Sequencer Thread ran at 2049 ms and Cycle of sequencer 615 
+
+Task 1 (Frame Sampler thread) Completion Time:2051 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2051 ms, Release count 20 
+
+Sequencer Thread ran at 2052 ms and Cycle of sequencer 616 
+
+Sequencer Thread ran at 2056 ms and Cycle of sequencer 617 
+
+Sequencer Thread ran at 2059 ms and Cycle of sequencer 618 
+
+Sequencer Thread ran at 2062 ms and Cycle of sequencer 619 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2063 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:2064 ms, Release count 10 
+
+Sequencer Thread ran at 2066 ms and Cycle of sequencer 620 
+
+Sequencer Thread ran at 2069 ms and Cycle of sequencer 621 
+
+Sequencer Thread ran at 2072 ms and Cycle of sequencer 622 
+
+Sequencer Thread ran at 2076 ms and Cycle of sequencer 623 
+
+Task 3 (Difference Image Proc thread) Completion Time:2077 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2077 ms, Release count 62 
+
+Sequencer Thread ran at 2079 ms and Cycle of sequencer 624 
+
+Sequencer Thread ran at 2082 ms and Cycle of sequencer 625 
+
+Sequencer Thread ran at 2086 ms and Cycle of sequencer 626 
+
+Task 1 (Frame Sampler thread) CompletiSequencer Thread ran at 2089 ms and Cycle of sequencer 627 
+
+on Time:2089 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:2090 ms, Release count 10 
+
+Sequencer Thread ran at 2092 ms and Cycle of sequencer 628 
+
+Sequencer Thread ran at 2096 ms and Cycle of sequencer 629 
+
+Sequencer Thread ran at 2099 ms and Cycle of sequencer 630 
+
+Task 5 (Processed Image Save to File thread) Completion Time:210Sequencer Thread ran at 2102 ms and Cycle of sequencer 631 
+
+2 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2103 ms, Release count 63 
+
+Sequencer Thread ran at 2106 ms and Cycle of sequencer 632 
+
+Sequencer Thread ran at 2109 ms and Cycle of sequencer 633 
+
+Sequencer Thread ran at 2112 ms and Cycle of sequencer 634 
+
+Task 1 (Frame Sampler thread) Completion Time:2115 ms, Execution Time:12 ms
+
+Task 2 (Time-stSequencer Thread ran at 2116 ms and Cycle of sequencer 635 
+
+amp with Image Analysis thread) Start Time:2116 ms, Release count 21 
+
+Sequencer Thread ran at 2119 ms and Cycle of sequencer 636 
+
+Sequencer Thread ran at 2122 ms and Cycle of sequencer 637 
+
+Sequencer Thread ran at 2126 ms and Cycle of sequencer 638 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2128 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp ImagSequencer Thread ran at 2129 ms and Cycle of sequencer 639 
+
+e Save to File thread) Start Time:2129 ms, Release count 21 
+
+Sequencer Thread ran at 2132 ms and Cycle of sequencer 640 
+
+Sequencer Thread ran at 2136 ms and Cycle of sequencer 641 
+
+Sequencer Thread ran at 2139 ms and Cycle of sequencer 642 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2141 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StaSequencer Thread ran at 2142 ms and Cycle of sequencer 643 
+
+rt Time:2142 ms, Release count 64 
+
+Sequencer Thread ran at 2146 ms and Cycle of sequencer 644 
+
+Sequencer Thread ran at 2149 ms and Cycle of sequencer 645 
+
+Sequencer Thread ran at 2152 ms and Cycle of sequencer 646 
+
+Task 1 (Frame Sampler thread) Completion Time:2154 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2155 ms, ReleasSequencer Thread ran at 2156 ms and Cycle of sequencer 647 
+
+e count 21 
+
+Sequencer Thread ran at 2159 ms and Cycle of sequencer 648 
+
+Sequencer Thread ran at 2162 ms and Cycle of sequencer 649 
+
+Sequencer Thread ran at 2166 ms and Cycle of sequencer 650 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2167 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2168 ms, Release count 65 
+
+Sequencer Thread ran at 2169 ms and Cycle of sequencer 651 
+
+Sequencer Thread ran at 2172 ms and Cycle of sequencer 652 
+
+Sequencer Thread ran at 2176 ms and Cycle of sequencer 653 
+
+Sequencer Thread ran at 2179 ms and Cycle of sequencer 654 
+
+Task 1 (Frame Sampler thread) Completion Time:2181 ms, Execution Time:13 ms
+
+Task 7 (10 sec Tick Debug thread) Start Time:2181 ms , Release count 2 
+
+Sequencer Thread ran at 2182 ms and Cycle of sequencer 655 
+
+Sequencer Thread ran at 2186 ms and Cycle of sequencer 656 
+
+Sequencer Thread ran at 2189 ms and Cycle of sequencer 657 
+
+Sequencer Thread ran at 2192 ms and Cycle of sequencer 658 
+
+Task 7 (10 sec Tick Debug thread) Completion Time:2193 ms, Execution Time:12 ms
+
+Sequencer Thread ran at 2196 ms and Cycle of sequencer 659 
+
+Sequencer Thread ran at 2199 ms and Cycle of sequencer 660 
+
+Task 1 (Frame Sampler thread) Start Time:2200 ms, Release count 66 
+
+Sequencer Thread ran at 2202 ms and Cycle of sequencer 661 
+
+Sequencer Thread ran at 2206 ms and Cycle of sequencer 662 
+
+Sequencer Thread ran at 2209 ms and Cycle of sequencer 663 
+
+Task 1 (Frame Sampler thread) Completion Time:2211 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:2Sequencer Thread ran at 2212 ms and Cycle of sequencer 664 
+
+212 ms, Release count 22 
+
+Sequencer Thread ran at 2216 ms and Cycle of sequencer 665 
+
+Sequencer Thread ran at 2219 ms and Cycle of sequencer 666 
+
+Sequencer Thread ran at 2222 ms and Cycle of sequencer 667 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2224 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:2225 ms, ReSequencer Thread ran at 2226 ms and Cycle of sequencer 668 
+
+lease count 22 
+
+Sequencer Thread ran at 2229 ms and Cycle of sequencer 669 
+
+Sequencer Thread ran at 2232 ms and Cycle of sequencer 670 
+
+Sequencer Thread ran at 2236 ms and Cycle of sequencer 671 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2238 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2238 ms, Release count 67 
+
+Sequencer Thread ran at 2239 ms and Cycle of sequencer 672 
+
+Sequencer Thread ran at 2242 ms and Cycle of sequencer 673 
+
+Sequencer Thread ran at 2246 ms and Cycle of sequencer 674 
+
+Sequencer Thread ran at 2249 ms and Cycle of sequencer 675 
+
+Task 1 (Frame Sampler thread) Completion Time:2251 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2251 ms, Release count 22 
+
+Sequencer Thread ran at 2252 ms and Cycle of sequencer 676 
+
+Sequencer Thread ran at 2256 ms and Cycle of sequencer 677 
+
+Sequencer Thread ran at 2259 ms and Cycle of sequencer 678 
+
+Sequencer Thread ran at 2262 ms and Cycle of sequencer 679 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2263 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:2264 ms, Release count 11 
+
+Sequencer Thread ran at 2266 ms and Cycle of sequencer 680 
+
+Sequencer Thread ran at 2269 ms and Cycle of sequencer 681 
+
+Sequencer Thread ran at 2272 ms and Cycle of sequencer 682 
+
+Sequencer Thread ran at 2276 ms and Cycle of sequencer 683 
+
+Task 3 (Difference Image Proc thread) Completion Time:2277 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2277 ms, Release count 68 
+
+Sequencer Thread ran at 2279 ms and Cycle of sequencer 684 
+
+Sequencer Thread ran at 2282 ms and Cycle of sequencer 685 
+
+Sequencer Thread ran at 2286 ms and Cycle of sequencer 686 
+
+Task 1 (Frame Sampler thread) CompletiSequencer Thread ran at 2289 ms and Cycle of sequencer 687 
+
+on Time:2289 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:2290 ms, Release count 11 
+
+Sequencer Thread ran at 2292 ms and Cycle of sequencer 688 
+
+Sequencer Thread ran at 2296 ms and Cycle of sequencer 689 
+
+Sequencer Thread ran at 2299 ms and Cycle of sequencer 690 
+
+Task 5 (Processed Image Save to File thread) Completion Time:230Sequencer Thread ran at 2302 ms and Cycle of sequencer 691 
+
+2 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2303 ms, Release count 69 
+
+Sequencer Thread ran at 2306 ms and Cycle of sequencer 692 
+
+Sequencer Thread ran at 2309 ms and Cycle of sequencer 693 
+
+Sequencer Thread ran at 2312 ms and Cycle of sequencer 694 
+
+Task 1 (Frame Sampler thread) Completion Time:2315 ms, Execution Time:12 ms
+
+Task 2 (Time-stSequencer Thread ran at 2316 ms and Cycle of sequencer 695 
+
+amp with Image Analysis thread) Start Time:2316 ms, Release count 23 
+
+Sequencer Thread ran at 2319 ms and Cycle of sequencer 696 
+
+Sequencer Thread ran at 2322 ms and Cycle of sequencer 697 
+
+Sequencer Thread ran at 2326 ms and Cycle of sequencer 698 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2328 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp ImagSequencer Thread ran at 2329 ms and Cycle of sequencer 699 
+
+e Save to File thread) Start Time:2329 ms, Release count 23 
+
+Sequencer Thread ran at 2332 ms and Cycle of sequencer 700 
+
+Sequencer Thread ran at 2336 ms and Cycle of sequencer 701 
+
+Sequencer Thread ran at 2339 ms and Cycle of sequencer 702 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2341 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StaSequencer Thread ran at 2342 ms and Cycle of sequencer 703 
+
+rt Time:2342 ms, Release count 70 
+
+Sequencer Thread ran at 2346 ms and Cycle of sequencer 704 
+
+Sequencer Thread ran at 2349 ms and Cycle of sequencer 705 
+
+Sequencer Thread ran at 2352 ms and Cycle of sequencer 706 
+
+Task 1 (Frame Sampler thread) Completion Time:2354 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2355 ms, ReleasSequencer Thread ran at 2356 ms and Cycle of sequencer 707 
+
+e count 23 
+
+Sequencer Thread ran at 2359 ms and Cycle of sequencer 708 
+
+Sequencer Thread ran at 2362 ms and Cycle of sequencer 709 
+
+Sequencer Thread ran at 2366 ms and Cycle of sequencer 710 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2367 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2368 ms, Release count 71 
+
+Sequencer Thread ran at 2369 ms and Cycle of sequencer 711 
+
+Sequencer Thread ran at 2372 ms and Cycle of sequencer 712 
+
+Sequencer Thread ran at 2376 ms and Cycle of sequencer 713 
+
+Sequencer Thread ran at 2379 ms and Cycle of sequencer 714 
+
+Task 1 (Frame Sampler thread) Completion Time:2381 ms, Execution Time:13 ms
+
+Sequencer Thread ran at 2382 ms and Cycle of sequencer 715 
+
+Sequencer Thread ran at 2386 ms and Cycle of sequencer 716 
+
+Sequencer Thread ran at 2389 ms and Cycle of sequencer 717 
+
+Sequencer Thread ran at 2392 ms and Cycle of sequencer 718 
+
+Sequencer Thread ran at 2396 ms and Cycle of sequencer 719 
+
+Sequencer Thread ran at 2399 ms and Cycle of sequencer 720 
+
+Task 1 (Frame Sampler thread) Start Time:2400 ms, Release count 72 
+
+Sequencer Thread ran at 2402 ms and Cycle of sequencer 721 
+
+Sequencer Thread ran at 2406 ms and Cycle of sequencer 722 
+
+Sequencer Thread ran at 2409 ms and Cycle of sequencer 723 
+
+Task 1 (Frame Sampler thread) Completion Time:2411 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:2Sequencer Thread ran at 2412 ms and Cycle of sequencer 724 
+
+412 ms, Release count 24 
+
+Sequencer Thread ran at 2416 ms and Cycle of sequencer 725 
+
+Sequencer Thread ran at 2419 ms and Cycle of sequencer 726 
+
+Sequencer Thread ran at 2422 ms and Cycle of sequencer 727 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2424 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:2425 ms, ReSequencer Thread ran at 2426 ms and Cycle of sequencer 728 
+
+lease count 24 
+
+Sequencer Thread ran at 2429 ms and Cycle of sequencer 729 
+
+Sequencer Thread ran at 2432 ms and Cycle of sequencer 730 
+
+Sequencer Thread ran at 2436 ms and Cycle of sequencer 731 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2438 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2438 ms, Release count 73 
+
+Sequencer Thread ran at 2439 ms and Cycle of sequencer 732 
+
+Sequencer Thread ran at 2442 ms and Cycle of sequencer 733 
+
+Sequencer Thread ran at 2446 ms and Cycle of sequencer 734 
+
+Sequencer Thread ran at 2449 ms and Cycle of sequencer 735 
+
+Task 1 (Frame Sampler thread) Completion Time:2451 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2451 ms, Release count 24 
+
+Sequencer Thread ran at 2452 ms and Cycle of sequencer 736 
+
+Sequencer Thread ran at 2456 ms and Cycle of sequencer 737 
+
+Sequencer Thread ran at 2459 ms and Cycle of sequencer 738 
+
+Sequencer Thread ran at 2462 ms and Cycle of sequencer 739 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2463 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:2464 ms, Release count 12 
+
+Sequencer Thread ran at 2466 ms and Cycle of sequencer 740 
+
+Sequencer Thread ran at 2469 ms and Cycle of sequencer 741 
+
+Sequencer Thread ran at 2472 ms and Cycle of sequencer 742 
+
+Sequencer Thread ran at 2476 ms and Cycle of sequencer 743 
+
+Task 3 (Difference Image Proc thread) Completion Time:2477 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2477 ms, Release count 74 
+
+Sequencer Thread ran at 2479 ms and Cycle of sequencer 744 
+
+Sequencer Thread ran at 2482 ms and Cycle of sequencer 745 
+
+Sequencer Thread ran at 2486 ms and Cycle of sequencer 746 
+
+Task 1 (Frame Sampler thread) CompletiSequencer Thread ran at 2489 ms and Cycle of sequencer 747 
+
+on Time:2489 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:2490 ms, Release count 12 
+
+Sequencer Thread ran at 2492 ms and Cycle of sequencer 748 
+
+Sequencer Thread ran at 2496 ms and Cycle of sequencer 749 
+
+Sequencer Thread ran at 2499 ms and Cycle of sequencer 750 
+
+Task 5 (Processed Image Save to File thread) Completion Time:250Sequencer Thread ran at 2502 ms and Cycle of sequencer 751 
+
+2 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2503 ms, Release count 75 
+
+Sequencer Thread ran at 2506 ms and Cycle of sequencer 752 
+
+Sequencer Thread ran at 2509 ms and Cycle of sequencer 753 
+
+Sequencer Thread ran at 2512 ms and Cycle of sequencer 754 
+
+Task 1 (Frame Sampler thread) Completion Time:2515 ms, Execution Time:12 ms
+
+Task 2 (Time-stSequencer Thread ran at 2516 ms and Cycle of sequencer 755 
+
+amp with Image Analysis thread) Start Time:2516 ms, Release count 25 
+
+Sequencer Thread ran at 2519 ms and Cycle of sequencer 756 
+
+Sequencer Thread ran at 2522 ms and Cycle of sequencer 757 
+
+Sequencer Thread ran at 2526 ms and Cycle of sequencer 758 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2528 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp ImagSequencer Thread ran at 2529 ms and Cycle of sequencer 759 
+
+e Save to File thread) Start Time:2529 ms, Release count 25 
+
+Sequencer Thread ran at 2532 ms and Cycle of sequencer 760 
+
+Sequencer Thread ran at 2536 ms and Cycle of sequencer 761 
+
+Sequencer Thread ran at 2539 ms and Cycle of sequencer 762 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2541 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StaSequencer Thread ran at 2542 ms and Cycle of sequencer 763 
+
+rt Time:2542 ms, Release count 76 
+
+Sequencer Thread ran at 2546 ms and Cycle of sequencer 764 
+
+Sequencer Thread ran at 2549 ms and Cycle of sequencer 765 
+
+Sequencer Thread ran at 2552 ms and Cycle of sequencer 766 
+
+Task 1 (Frame Sampler thread) Completion Time:2554 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2555 ms, ReleasSequencer Thread ran at 2556 ms and Cycle of sequencer 767 
+
+e count 25 
+
+Sequencer Thread ran at 2559 ms and Cycle of sequencer 768 
+
+Sequencer Thread ran at 2562 ms and Cycle of sequencer 769 
+
+Sequencer Thread ran at 2566 ms and Cycle of sequencer 770 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2567 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2568 ms, Release count 77 
+
+Sequencer Thread ran at 2569 ms and Cycle of sequencer 771 
+
+Sequencer Thread ran at 2572 ms and Cycle of sequencer 772 
+
+Sequencer Thread ran at 2576 ms and Cycle of sequencer 773 
+
+Sequencer Thread ran at 2579 ms and Cycle of sequencer 774 
+
+Task 1 (Frame Sampler thread) Completion Time:2581 ms, Execution Time:13 ms
+
+Sequencer Thread ran at 2582 ms and Cycle of sequencer 775 
+
+Sequencer Thread ran at 2586 ms and Cycle of sequencer 776 
+
+Sequencer Thread ran at 2589 ms and Cycle of sequencer 777 
+
+Sequencer Thread ran at 2592 ms and Cycle of sequencer 778 
+
+Sequencer Thread ran at 2596 ms and Cycle of sequencer 779 
+
+Sequencer Thread ran at 2599 ms and Cycle of sequencer 780 
+
+Task 1 (Frame Sampler thread) Start Time:2600 ms, Release count 78 
+
+Sequencer Thread ran at 2602 ms and Cycle of sequencer 781 
+
+Sequencer Thread ran at 2606 ms and Cycle of sequencer 782 
+
+Sequencer Thread ran at 2609 ms and Cycle of sequencer 783 
+
+Task 1 (Frame Sampler thread) Completion Time:2611 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:2Sequencer Thread ran at 2612 ms and Cycle of sequencer 784 
+
+612 ms, Release count 26 
+
+Sequencer Thread ran at 2616 ms and Cycle of sequencer 785 
+
+Sequencer Thread ran at 2619 ms and Cycle of sequencer 786 
+
+Sequencer Thread ran at 2622 ms and Cycle of sequencer 787 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2624 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:2625 ms, ReSequencer Thread ran at 2626 ms and Cycle of sequencer 788 
+
+lease count 26 
+
+Sequencer Thread ran at 2629 ms and Cycle of sequencer 789 
+
+Sequencer Thread ran at 2632 ms and Cycle of sequencer 790 
+
+Sequencer Thread ran at 2636 ms and Cycle of sequencer 791 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2638 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2638 ms, Release count 79 
+
+Sequencer Thread ran at 2639 ms and Cycle of sequencer 792 
+
+Sequencer Thread ran at 2642 ms and Cycle of sequencer 793 
+
+Sequencer Thread ran at 2646 ms and Cycle of sequencer 794 
+
+Sequencer Thread ran at 2649 ms and Cycle of sequencer 795 
+
+Task 1 (Frame Sampler thread) Completion Time:2651 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2651 ms, Release count 26 
+
+Sequencer Thread ran at 2652 ms and Cycle of sequencer 796 
+
+Sequencer Thread ran at 2656 ms and Cycle of sequencer 797 
+
+Sequencer Thread ran at 2659 ms and Cycle of sequencer 798 
+
+Sequencer Thread ran at 2662 ms and Cycle of sequencer 799 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2663 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:2664 ms, Release count 13 
+
+Sequencer Thread ran at 2666 ms and Cycle of sequencer 800 
+
+Sequencer Thread ran at 2669 ms and Cycle of sequencer 801 
+
+Sequencer Thread ran at 2672 ms and Cycle of sequencer 802 
+
+Sequencer Thread ran at 2676 ms and Cycle of sequencer 803 
+
+Task 3 (Difference Image Proc thread) Completion Time:2677 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2677 ms, Release count 80 
+
+Sequencer Thread ran at 2679 ms and Cycle of sequencer 804 
+
+Sequencer Thread ran at 2682 ms and Cycle of sequencer 805 
+
+Sequencer Thread ran at 2686 ms and Cycle of sequencer 806 
+
+Task 1 (Frame Sampler thread) CompletiSequencer Thread ran at 2689 ms and Cycle of sequencer 807 
+
+on Time:2689 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:2690 ms, Release count 13 
+
+Sequencer Thread ran at 2692 ms and Cycle of sequencer 808 
+
+Sequencer Thread ran at 2696 ms and Cycle of sequencer 809 
+
+Sequencer Thread ran at 2699 ms and Cycle of sequencer 810 
+
+Task 5 (Processed Image Save to File thread) Completion Time:270Sequencer Thread ran at 2702 ms and Cycle of sequencer 811 
+
+2 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2703 ms, Release count 81 
+
+Sequencer Thread ran at 2706 ms and Cycle of sequencer 812 
+
+Sequencer Thread ran at 2709 ms and Cycle of sequencer 813 
+
+Sequencer Thread ran at 2712 ms and Cycle of sequencer 814 
+
+Task 1 (Frame Sampler thread) Completion Time:2715 ms, Execution Time:12 ms
+
+Task 2 (Time-stSequencer Thread ran at 2716 ms and Cycle of sequencer 815 
+
+amp with Image Analysis thread) Start Time:2716 ms, Release count 27 
+
+Sequencer Thread ran at 2719 ms and Cycle of sequencer 816 
+
+Sequencer Thread ran at 2722 ms and Cycle of sequencer 817 
+
+Sequencer Thread ran at 2726 ms and Cycle of sequencer 818 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2728 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp ImagSequencer Thread ran at 2729 ms and Cycle of sequencer 819 
+
+e Save to File thread) Start Time:2729 ms, Release count 27 
+
+Sequencer Thread ran at 2732 ms and Cycle of sequencer 820 
+
+Sequencer Thread ran at 2736 ms and Cycle of sequencer 821 
+
+Sequencer Thread ran at 2739 ms and Cycle of sequencer 822 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2741 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StaSequencer Thread ran at 2742 ms and Cycle of sequencer 823 
+
+rt Time:2742 ms, Release count 82 
+
+Sequencer Thread ran at 2746 ms and Cycle of sequencer 824 
+
+Sequencer Thread ran at 2749 ms and Cycle of sequencer 825 
+
+Sequencer Thread ran at 2752 ms and Cycle of sequencer 826 
+
+Task 1 (Frame Sampler thread) Completion Time:2754 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2755 ms, ReleasSequencer Thread ran at 2756 ms and Cycle of sequencer 827 
+
+e count 27 
+
+Sequencer Thread ran at 2759 ms and Cycle of sequencer 828 
+
+Sequencer Thread ran at 2762 ms and Cycle of sequencer 829 
+
+Sequencer Thread ran at 2766 ms and Cycle of sequencer 830 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2767 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2768 ms, Release count 83 
+
+Sequencer Thread ran at 2769 ms and Cycle of sequencer 831 
+
+Sequencer Thread ran at 2772 ms and Cycle of sequencer 832 
+
+Sequencer Thread ran at 2776 ms and Cycle of sequencer 833 
+
+Sequencer Thread ran at 2779 ms and Cycle of sequencer 834 
+
+Task 1 (Frame Sampler thread) Completion Time:2781 ms, Execution Time:13 ms
+
+Sequencer Thread ran at 2782 ms and Cycle of sequencer 835 
+
+Sequencer Thread ran at 2786 ms and Cycle of sequencer 836 
+
+Sequencer Thread ran at 2789 ms and Cycle of sequencer 837 
+
+Sequencer Thread ran at 2792 ms and Cycle of sequencer 838 
+
+Sequencer Thread ran at 2796 ms and Cycle of sequencer 839 
+
+Sequencer Thread ran at 2799 ms and Cycle of sequencer 840 
+
+Task 1 (Frame Sampler thread) Start Time:2800 ms, Release count 84 
+
+Sequencer Thread ran at 2802 ms and Cycle of sequencer 841 
+
+Sequencer Thread ran at 2806 ms and Cycle of sequencer 842 
+
+Sequencer Thread ran at 2809 ms and Cycle of sequencer 843 
+
+Task 1 (Frame Sampler thread) Completion Time:2811 ms, Execution Time:11 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:2Sequencer Thread ran at 2812 ms and Cycle of sequencer 844 
+
+812 ms, Release count 28 
+
+Sequencer Thread ran at 2816 ms and Cycle of sequencer 845 
+
+Sequencer Thread ran at 2819 ms and Cycle of sequencer 846 
+
+Sequencer Thread ran at 2822 ms and Cycle of sequencer 847 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2824 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:2825 ms, ReSequencer Thread ran at 2826 ms and Cycle of sequencer 848 
+
+lease count 28 
+
+Sequencer Thread ran at 2829 ms and Cycle of sequencer 849 
+
+Sequencer Thread ran at 2832 ms and Cycle of sequencer 850 
+
+Sequencer Thread ran at 2836 ms and Cycle of sequencer 851 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2838 ms, Execution Timet:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2838 ms, Release count 85 
+
+Sequencer Thread ran at 2839 ms and Cycle of sequencer 852 
+
+Sequencer Thread ran at 2842 ms and Cycle of sequencer 853 
+
+Sequencer Thread ran at 2846 ms and Cycle of sequencer 854 
+
+Sequencer Thread ran at 2849 ms and Cycle of sequencer 855 
+
+Task 1 (Frame Sampler thread) Completion Time:2851 ms, Execution Time:13 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2851 ms, Release count 28 
+
+Sequencer Thread ran at 2852 ms and Cycle of sequencer 856 
+
+Sequencer Thread ran at 2856 ms and Cycle of sequencer 857 
+
+Sequencer Thread ran at 2859 ms and Cycle of sequencer 858 
+
+Sequencer Thread ran at 2862 ms and Cycle of sequencer 859 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2863 ms, Execution Time:12 ms
+
+Task 3 (Difference Image Proc thread) Start Time:2864 ms, Release count 14 
+
+Sequencer Thread ran at 2866 ms and Cycle of sequencer 860 
+
+Sequencer Thread ran at 2869 ms and Cycle of sequencer 861 
+
+Sequencer Thread ran at 2872 ms and Cycle of sequencer 862 
+
+Sequencer Thread ran at 2876 ms and Cycle of sequencer 863 
+
+Task 3 (Difference Image Proc thread) Completion Time:2877 ms, Execution Time:13 ms
+
+Task 1 (Frame Sampler thread) Start Time:2877 ms, Release count 86 
+
+Sequencer Thread ran at 2879 ms and Cycle of sequencer 864 
+
+Sequencer Thread ran at 2882 ms and Cycle of sequencer 865 
+
+Sequencer Thread ran at 2886 ms and Cycle of sequencer 866 
+
+Task 1 (Frame Sampler thread) CompletiSequencer Thread ran at 2889 ms and Cycle of sequencer 867 
+
+on Time:2889 ms, Execution Time:12 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:2890 ms, Release count 14 
+
+Sequencer Thread ran at 2892 ms and Cycle of sequencer 868 
+
+Sequencer Thread ran at 2896 ms and Cycle of sequencer 869 
+
+Sequencer Thread ran at 2899 ms and Cycle of sequencer 870 
+
+Task 5 (Processed Image Save to File thread) Completion Time:290Sequencer Thread ran at 2902 ms and Cycle of sequencer 871 
+
+2 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2903 ms, Release count 87 
+
+Sequencer Thread ran at 2906 ms and Cycle of sequencer 872 
+
+Sequencer Thread ran at 2909 ms and Cycle of sequencer 873 
+
+Sequencer Thread ran at 2912 ms and Cycle of sequencer 874 
+
+Task 1 (Frame Sampler thread) Completion Time:2915 ms, Execution Time:12 ms
+
+Task 2 (Time-stSequencer Thread ran at 2916 ms and Cycle of sequencer 875 
+
+amp with Image Analysis thread) Start Time:2916 ms, Release count 29 
+
+Sequencer Thread ran at 2919 ms and Cycle of sequencer 876 
+
+Sequencer Thread ran at 2922 ms and Cycle of sequencer 877 
+
+Sequencer Thread ran at 2926 ms and Cycle of sequencer 878 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:2928 ms, Execution Time:12 ms
+
+Task 4 (Time-stamp ImagSequencer Thread ran at 2929 ms and Cycle of sequencer 879 
+
+e Save to File thread) Start Time:2929 ms, Release count 29 
+
+Sequencer Thread ran at 2932 ms and Cycle of sequencer 880 
+
+Sequencer Thread ran at 2936 ms and Cycle of sequencer 881 
+
+Sequencer Thread ran at 2939 ms and Cycle of sequencer 882 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:2941 ms, Execution Timet:12 ms
+
+Task 1 (Frame Sampler thread) StaSequencer Thread ran at 2942 ms and Cycle of sequencer 883 
+
+rt Time:2942 ms, Release count 88 
+
+Sequencer Thread ran at 2946 ms and Cycle of sequencer 884 
+
+Sequencer Thread ran at 2949 ms and Cycle of sequencer 885 
+
+Sequencer Thread ran at 2952 ms and Cycle of sequencer 886 
+
+Task 1 (Frame Sampler thread) Completion Time:2954 ms, Execution Time:12 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:2955 ms, ReleasSequencer Thread ran at 2956 ms and Cycle of sequencer 887 
+
+e count 29 
+
+Sequencer Thread ran at 2959 ms and Cycle of sequencer 888 
+
+Sequencer Thread ran at 2962 ms and Cycle of sequencer 889 
+
+Sequencer Thread ran at 2966 ms and Cycle of sequencer 890 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:2967 ms, Execution Time:12 ms
+
+Task 1 (Frame Sampler thread) Start Time:2968 ms, Release count 89 
+
+Sequencer Thread ran at 2969 ms and Cycle of sequencer 891 
+
+Sequencer Thread ran at 2972 ms and Cycle of sequencer 892 
+
+Sequencer Thread ran at 2976 ms and Cycle of sequencer 893 
+
+Sequencer Thread ran at 2979 ms and Cycle of sequencer 894 
+
+Task 1 (Frame Sampler thread) Completion Time:2981 ms, Execution Time:13 ms
+
+Sequencer Thread ran at 2982 ms and Cycle of sequencer 895 
+
+Sequencer Thread ran at 2986 ms and Cycle of sequencer 896 
+
+Sequencer Thread ran at 2989 ms and Cycle of sequencer 897 
+
+Sequencer Thread ran at 2992 ms and Cycle of sequencer 898 
+
+Sequencer Thread ran at 2996 ms and Cycle of sequencer 899 
+
+Sequencer Thread ran at 2999 ms and Cycle of sequencer 900 
+
+Task 1 (Frame Sampler thread) Start Time:3000 ms, Release count 90 
+
+Sequencer Thread ran at 3002 ms and Cycle of sequencer 901 
+
+***** Task 1 wcet 13 total_exectution_time 1072 execution unit 90 *****
+
+***** Task 2 wcet 13 total_exectution_time 351 execution unit 29 *****
+
+***** Task 3 wcet 13 total_exectution_time 176 execution unit 14 *****
+
+***** Task 4 wcet 13 total_exectution_time 361 execution unit 29 *****
+
+***** Task 5 wcet 12 total_exectution_time 168 execution unit 14 *****
+
+***** Task 6 wcet 12 total_exectution_time 345 execution unit 29 *****
+
+***** Task 7 wcet 12 total_exectution_time 24 execution unit 2 *****
+
+Task 1 (Frame Sampler thread) Completion Time:3010 ms, Execution Time:10 ms
+
+Task 2 (Time-stamp with Image Analysis thread) Start Time:3011 ms, Release count 30 
+
+Task 2 (Time-stamp with Image Analysis thread) Completion Time:3021 ms, Execution Time:10 ms
+
+Task 4 (Time-stamp Image Save to File thread) Start Time:3022 ms, Release count 30 
+
+Task 4 (Time-stamp Image Save to File thread) Completion Time:3033 ms, Execution Timet:11 ms
+
+Task 6 (Send Time-stamped Image to Remote thread) Start Time:3034 ms, Release count 30 
+
+Task 6 (Send Time-stamped Image to Remote thread) Completion Time:3044 ms, Execution Time:10 ms
+
+Task 3 (Difference Image Proc thread) Start Time:3045 ms, Release count 15 
+
+Task 3 (Difference Image Proc thread) Completion Time:3055 ms, Execution Time:10 ms
+
+Task 5 (Processed Image Save to File thread) Start Time:3056 ms, Release count 15 
+
+Task 5 (Processed Image Save to File thread) Completion Time:3066 ms, Execution Time:10 ms
+
+Task 7 (10 sec Tick Debug thread) Start Time:3067 ms , Release count 3 
+
+Task 7 (10 sec Tick Debug thread) Completion Time:3077 ms, Execution Time:10 ms

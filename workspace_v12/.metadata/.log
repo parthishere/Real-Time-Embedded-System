@@ -1,0 +1,22 @@
+!SESSION 2024-05-17 23:58:24.806 -----------------------------------------------
+eclipse.buildId=4.23.0.I20220308-0310
+java.version=11.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.ti.ccstudio.branding.product
+
+This is a continuation of log file /home/parth/workspace_v12/.metadata/.bak_0.log
+Created Time: 2024-05-18 00:00:14.632
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-18 00:00:14.632
+!MESSAGE Using unsafe http transport to retrieve http://software-dl.ti.com/dsps/dsps_public_sw/sdo_ccstudio/codegen/Updates/p2mac/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-18 00:00:14.978
+!MESSAGE Using unsafe http transport to retrieve http://software-dl.ti.com/dsps/dsps_public_sw/sdo_ccstudio/codegen/Updates/p2win32/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-18 00:00:15.659
+!MESSAGE Using unsafe http transport to retrieve http://software-dl.ti.com/dsps/dsps_public_sw/sdo_ccstudio/CCSv5/Updates/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-05-18 00:00:16.265
+!MESSAGE Using unsafe http transport to retrieve http://www.blackhawk-dsp.com/updates/linux/com.bh.ccstudio.emulation.linux64_9.0.0.001, see CVE-2021-41033. Consider using https instead.

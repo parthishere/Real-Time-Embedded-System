@@ -1,0 +1,211 @@
+
+****************
+Example 0
+C: 1 1 2 
+T: 2 10 15 
+D: 2 10 15 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=10, Utility Sum = 0.600000
+Task 2, WCET=2, Period=15, Utility Sum = 0.733333
+
+Total Utility Sum = 0.733333
+LUB = 0.779763
+RM LUB: Feasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+
+****************
+Example 1
+C: 1 1 2 
+T: 2 5 7 
+D: 2 5 7 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=5, Utility Sum = 0.700000
+Task 2, WCET=2, Period=7, Utility Sum = 0.985714
+
+Total Utility Sum = 0.985714
+LUB = 0.779763
+RM LUB: Infeasible
+Completion time feasibility: Infeasible
+Scheduling point feasibility: Infeasible
+
+
+****************
+Example 2
+C: 1 1 1 2 
+T: 2 5 7 13 
+D: 2 5 7 13 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=5, Utility Sum = 0.700000
+Task 2, WCET=1, Period=7, Utility Sum = 0.842857
+Task 3, WCET=2, Period=13, Utility Sum = 0.996703
+
+Total Utility Sum = 0.996703
+LUB = 0.756828
+RM LUB: Infeasible
+Completion time feasibility: Infeasible
+Scheduling point feasibility: Infeasible
+
+
+****************
+Example 3
+C: 1 2 3 
+T: 3 5 15 
+D: 3 5 15 
+
+Task 0, WCET=1, Period=3, Utility Sum = 0.333333
+Task 1, WCET=2, Period=5, Utility Sum = 0.733333
+Task 2, WCET=3, Period=15, Utility Sum = 0.933333
+
+Total Utility Sum = 0.933333
+LUB = 0.779763
+RM LUB: Infeasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+
+****************
+Example 4
+C: 1 1 4 
+T: 2 4 16 
+D: 2 4 16 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=4, Utility Sum = 0.750000
+Task 2, WCET=4, Period=16, Utility Sum = 1.000000
+
+Total Utility Sum = 1.000000
+LUB = 0.779763
+RM LUB: Infeasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+
+****************
+Example 5
+C: 1 1 4 
+T: 2 4 16 
+D: 2 4 16 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=4, Utility Sum = 0.750000
+Task 2, WCET=4, Period=16, Utility Sum = 1.000000
+
+Total Utility Sum = 1.000000
+LUB = 0.779763
+RM LUB: Infeasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+(Period)
+Total utility in EDF: 1.000000 Which is less than 1.0 
+EDF: Feasible
+Total utility in LLF: 1.000000 Which is less than 1.0 
+LLF: Feasible
+
+
+****************
+Example 6
+C: 1 1 1 2 
+T: 2 5 7 13 
+D: 2 3 7 15 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=5, Utility Sum = 0.700000
+Task 2, WCET=1, Period=7, Utility Sum = 0.842857
+Task 3, WCET=2, Period=13, Utility Sum = 0.996703
+
+Total Utility Sum = 0.996703
+LUB = 0.756828
+RM LUB: Infeasible
+Completion time feasibility: Infeasible
+Scheduling point feasibility: Infeasible
+Deadline monotonic: Infeasible
+
+(Period)
+Total utility in EDF: 0.996703 Which is less than 1.0 
+EDF on Period: Feasible
+Total utility in LLF: 0.996703 Which is less than 1.0 
+LLF on Period: Feasible
+
+(Deadline)
+Total utility in EDF: 1.109524 Which is less than 1.0 
+EDF on Deadline: Infeasible
+Total utility in LLF: 1.109524 Which is less than 1.0 
+LLF on Deadline: Infeasible
+
+
+****************
+Example 7
+C: 1 2 4 
+T: 3 5 15 
+D: 3 5 15 
+
+Task 0, WCET=1, Period=3, Utility Sum = 0.333333
+Task 1, WCET=2, Period=5, Utility Sum = 0.733333
+Task 2, WCET=4, Period=15, Utility Sum = 1.000000
+
+Total Utility Sum = 1.000000
+LUB = 0.779763
+RM LUB: Infeasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+(Period)
+Total utility in EDF: 1.000000 Which is less than 1.0 
+EDF: Feasible
+Total utility in LLF: 1.000000 Which is less than 1.0 
+LLF: Feasible
+
+
+****************
+Example 8
+C: 1 1 1 2 
+T: 2 5 7 13 
+D: 2 5 7 13 
+
+Task 0, WCET=1, Period=2, Utility Sum = 0.500000
+Task 1, WCET=1, Period=5, Utility Sum = 0.700000
+Task 2, WCET=1, Period=7, Utility Sum = 0.842857
+Task 3, WCET=2, Period=13, Utility Sum = 0.996703
+
+Total Utility Sum = 0.996703
+LUB = 0.756828
+RM LUB: Infeasible
+Completion time feasibility: Infeasible
+Scheduling point feasibility: Infeasible
+
+(Period)
+Total utility in EDF: 0.996703 Which is less than 1.0 
+EDF: Feasible
+Total utility in LLF: 0.996703 Which is less than 1.0 
+LLF: Feasible
+
+
+****************
+Example 9
+C: 1 2 4 6 
+T: 6 8 12 24 
+D: 6 8 12 24 
+
+Task 0, WCET=1, Period=6, Utility Sum = 0.166667
+Task 1, WCET=2, Period=8, Utility Sum = 0.416667
+Task 2, WCET=4, Period=12, Utility Sum = 0.750000
+Task 3, WCET=6, Period=24, Utility Sum = 1.000000
+
+Total Utility Sum = 1.000000
+LUB = 0.756828
+RM LUB: Infeasible
+Completion time feasibility: Feasible
+Scheduling point feasibility: Feasible
+
+(Period)
+Total utility in EDF: 1.000000 Which is less than 1.0 
+EDF: Feasible
+Total utility in LLF: 1.000000 Which is less than 1.0 
+LLF: Feasible
+

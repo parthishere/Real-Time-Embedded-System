@@ -1,0 +1,5 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Program is running and is in wait state}}{2}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces PS command that shows that our program is waiting for semaphore}}{2}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Semaphore has been posted by this program}}{2}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Output of program waiting for semaphore}}{2}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces PS output after Semaphore posted}}{3}{figure.5}%

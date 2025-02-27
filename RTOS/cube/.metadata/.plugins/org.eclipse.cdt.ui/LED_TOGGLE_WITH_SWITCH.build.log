@@ -1,0 +1,10 @@
+15:11:59 **** Incremental Build of configuration Debug for project LED_TOGGLE_WITH_SWITCH ****
+make -j12 all 
+arm-none-eabi-size   LED_TOGGLE_WITH_SWITCH.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5300	     24	   1576	   6900	   1af4	LED_TOGGLE_WITH_SWITCH.elf
+Finished building: default.size.stdout
+ 
+
+15:11:59 Build Finished. 0 errors, 0 warnings. (took 295ms)
+

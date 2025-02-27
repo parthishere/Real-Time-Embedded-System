@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "thread-shared-types.h": "c",
+        "sched.h": "c",
+        "unistd.h": "c",
+        "cstdlib": "c"
+    }
+}

@@ -1,0 +1,13 @@
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Thread10 | priority = 98 | time stamp(arrival) 0.116943 msec | CPU burst time : 10.003906 
+Thread20 | priority = 97 | time stamp(arrival) 20.179932 msec | CPU burst time : 20.003906 
+Thread10 | priority = 98 | time stamp(arrival) 20.165039 msec | CPU burst time : 10.002930 
+Thread10 | priority = 98 | time stamp(arrival) 40.420898 msec | CPU burst time : 10.006104 
+Thread20 | priority = 97 | time stamp(arrival) 70.447998 msec | CPU burst time : 20.005127 
+Thread10 | priority = 98 | time stamp(arrival) 60.459961 msec | CPU burst time : 10.002930 
+Thread10 | priority = 98 | time stamp(arrival) 80.489014 msec | CPU burst time : 10.002930 
+Test Conducted over 100.517822 msec

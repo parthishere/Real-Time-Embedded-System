@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project sequencer_1000 ****
+
+/home/parth/ti/ccs1260/ccs/utils/bin/gmake -k -j 12 all -O 
+ 
+gmake[1]: 'sequencer_1000.out' is up to date.
+
+**** Build Finished ****

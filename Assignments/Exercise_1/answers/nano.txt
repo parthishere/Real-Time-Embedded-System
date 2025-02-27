@@ -1,0 +1,16 @@
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+
+
+POSIX Clock demo using system RT clock with resolution:
+	0 secs, 0 microsecs, 1 nanosecs
+
+RT clock start seconds = 1639128065, nanoseconds = 449800452
+RT clock stop seconds = 1639128068, nanoseconds = 450002898
+RT clock DT seconds = 3, nanoseconds = 202446
+Requested sleep seconds = 3, nanoseconds = 0
+
+Sleep loop count = 1
+RT clock delay error = 0, nanoseconds = 202446

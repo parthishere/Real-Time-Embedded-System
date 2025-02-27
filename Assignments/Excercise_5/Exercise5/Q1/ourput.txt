@@ -1,0 +1,369 @@
+ Sequencer @ sec=0, msec=382
+   Frame Sampler thread @ sec=0, msec=383
+   Time-stamp with Image Analysis thread @ sec=0, msec=383
+  Difference Image Proc thread @ sec=0, msec=383
+ Time-stamp Image Save to File thread @ sec=0, msec=383
+   Processed Image Save to File thread @ sec=0, msec=383
+   Send Time-stamped Image to Remote thread @ sec=0, msec=383
+   10 sec Tick Debug thread @ sec=0, msec=383
+   Sequencer thread @ sec=0, msec=383
+   Sequencer cycle 1 @ sec=0, msec=417
+   Sequencer cycle 2 @ sec=0, msec=450
+   Sequencer cycle 3 @ sec=0, msec=484
+   Sequencer cycle 4 @ sec=0, msec=518
+   Sequencer cycle 5 @ sec=0, msec=551
+   Sequencer cycle 6 @ sec=0, msec=584
+   Sequencer cycle 7 @ sec=0, msec=618
+   Sequencer cycle 8 @ sec=0, msec=651
+   Sequencer cycle 9 @ sec=0, msec=685
+   Sequencer cycle 10 @ sec=0, msec=718
+   Frame Sampler release 1 @ sec=0, msec=718
+   Sequencer cycle 11 @ sec=0, msec=751
+   Sequencer cycle 12 @ sec=0, msec=785
+   Sequencer cycle 13 @ sec=0, msec=818
+   Sequencer cycle 14 @ sec=0, msec=852
+   Sequencer cycle 15 @ sec=0, msec=885
+   Sequencer cycle 16 @ sec=0, msec=919
+   Sequencer cycle 17 @ sec=0, msec=952
+   Sequencer cycle 18 @ sec=0, msec=986
+   Sequencer cycle 19 @ sec=1, msec=19
+   Sequencer cycle 20 @ sec=1, msec=52
+   Frame Sampler release 2 @ sec=1, msec=53
+   Sequencer cycle 21 @ sec=1, msec=86
+   Sequencer cycle 22 @ sec=1, msec=119
+   Sequencer cycle 23 @ sec=1, msec=153
+   Sequencer cycle 24 @ sec=1, msec=186
+   Sequencer cycle 25 @ sec=1, msec=220
+   Sequencer cycle 26 @ sec=1, msec=253
+   Sequencer cycle 27 @ sec=1, msec=287
+   Sequencer cycle 28 @ sec=1, msec=320
+   Sequencer cycle 29 @ sec=1, msec=353
+   Sequencer cycle 30 @ sec=1, msec=387
+   Time-stamp with Image Analysis release 1 @ sec=1, msec=387
+   Send Time-stamped Image to Remote release 1 @ sec=1, msec=387
+   Frame Sampler release 3 @ sec=1, msec=387
+   Time-stamp Image Save to File release 1 @ sec=1, msec=387
+   Sequencer cycle 31 @ sec=1, msec=420
+   Sequencer cycle 32 @ sec=1, msec=454
+   Sequencer cycle 33 @ sec=1, msec=487
+   Sequencer cycle 34 @ sec=1, msec=520
+   Sequencer cycle 35 @ sec=1, msec=554
+   Sequencer cycle 36 @ sec=1, msec=587
+   Sequencer cycle 37 @ sec=1, msec=621
+   Sequencer cycle 38 @ sec=1, msec=654
+   Sequencer cycle 39 @ sec=1, msec=687
+   Sequencer cycle 40 @ sec=1, msec=721
+   Frame Sampler release 4 @ sec=1, msec=721
+   Sequencer cycle 41 @ sec=1, msec=754
+   Sequencer cycle 42 @ sec=1, msec=788
+   Sequencer cycle 43 @ sec=1, msec=821
+   Sequencer cycle 44 @ sec=1, msec=854
+   Sequencer cycle 45 @ sec=1, msec=888
+   Sequencer cycle 46 @ sec=1, msec=921
+   Sequencer cycle 47 @ sec=1, msec=955
+   Sequencer cycle 48 @ sec=1, msec=988
+   Sequencer cycle 49 @ sec=2, msec=22
+   Sequencer cycle 50 @ sec=2, msec=55
+   Frame Sampler release 5 @ sec=2, msec=55
+   Sequencer cycle 51 @ sec=2, msec=88
+   Sequencer cycle 52 @ sec=2, msec=122
+   Sequencer cycle 53 @ sec=2, msec=155
+   Sequencer cycle 54 @ sec=2, msec=189
+   Sequencer cycle 55 @ sec=2, msec=222
+   Sequencer cycle 56 @ sec=2, msec=256
+   Sequencer cycle 57 @ sec=2, msec=289
+   Sequencer cycle 58 @ sec=2, msec=322
+   Sequencer cycle 59 @ sec=2, msec=356
+   Sequencer cycle 60 @ sec=2, msec=389
+   Time-stamp Image Save to File release 2 @ sec=2, msec=389
+   Time-stamp with Image Analysis release 2 @ sec=2, msec=389
+   Frame Sampler release 6 @ sec=2, msec=389
+   Send Time-stamped Image to Remote release 2 @ sec=2, msec=389
+   Processed Image Save to File release 1 @ sec=2, msec=389
+   Difference Image Proc release 1 @ sec=2, msec=389
+   Sequencer cycle 61 @ sec=2, msec=423
+   Sequencer cycle 62 @ sec=2, msec=456
+   Sequencer cycle 63 @ sec=2, msec=490
+   Sequencer cycle 64 @ sec=2, msec=523
+   Sequencer cycle 65 @ sec=2, msec=557
+   Sequencer cycle 66 @ sec=2, msec=590
+   Sequencer cycle 67 @ sec=2, msec=624
+   Sequencer cycle 68 @ sec=2, msec=657
+   Sequencer cycle 69 @ sec=2, msec=690
+   Sequencer cycle 70 @ sec=2, msec=724
+   Frame Sampler release 7 @ sec=2, msec=724
+   Sequencer cycle 71 @ sec=2, msec=757
+   Sequencer cycle 72 @ sec=2, msec=791
+   Sequencer cycle 73 @ sec=2, msec=824
+   Sequencer cycle 74 @ sec=2, msec=857
+   Sequencer cycle 75 @ sec=2, msec=891
+   Sequencer cycle 76 @ sec=2, msec=924
+   Sequencer cycle 77 @ sec=2, msec=958
+   Sequencer cycle 78 @ sec=2, msec=991
+   Sequencer cycle 79 @ sec=3, msec=24
+   Sequencer cycle 80 @ sec=3, msec=58
+   Frame Sampler release 8 @ sec=3, msec=58
+   Sequencer cycle 81 @ sec=3, msec=91
+   Sequencer cycle 82 @ sec=3, msec=125
+   Sequencer cycle 83 @ sec=3, msec=158
+   Sequencer cycle 84 @ sec=3, msec=191
+   Sequencer cycle 85 @ sec=3, msec=225
+   Sequencer cycle 86 @ sec=3, msec=258
+   Sequencer cycle 87 @ sec=3, msec=292
+   Sequencer cycle 88 @ sec=3, msec=325
+   Sequencer cycle 89 @ sec=3, msec=358
+   Sequencer cycle 90 @ sec=3, msec=392
+   Time-stamp with Image Analysis release 3 @ sec=3, msec=392
+   Frame Sampler release 9 @ sec=3, msec=392
+   Time-stamp Image Save to File release 3 @ sec=3, msec=392
+   Send Time-stamped Image to Remote release 3 @ sec=3, msec=392
+   Sequencer cycle 91 @ sec=3, msec=425
+   Sequencer cycle 92 @ sec=3, msec=459
+   Sequencer cycle 93 @ sec=3, msec=492
+   Sequencer cycle 94 @ sec=3, msec=525
+   Sequencer cycle 95 @ sec=3, msec=559
+   Sequencer cycle 96 @ sec=3, msec=592
+   Sequencer cycle 97 @ sec=3, msec=626
+   Sequencer cycle 98 @ sec=3, msec=659
+   Sequencer cycle 99 @ sec=3, msec=692
+   Sequencer cycle 100 @ sec=3, msec=726
+   Frame Sampler release 10 @ sec=3, msec=726
+   Sequencer cycle 101 @ sec=3, msec=759
+   Sequencer cycle 102 @ sec=3, msec=793
+   Sequencer cycle 103 @ sec=3, msec=826
+   Sequencer cycle 104 @ sec=3, msec=859
+   Sequencer cycle 105 @ sec=3, msec=893
+   Sequencer cycle 106 @ sec=3, msec=926
+   Sequencer cycle 107 @ sec=3, msec=959
+   Sequencer cycle 108 @ sec=3, msec=993
+   Sequencer cycle 109 @ sec=4, msec=26
+   Sequencer cycle 110 @ sec=4, msec=60
+   Frame Sampler release 11 @ sec=4, msec=60
+   Sequencer cycle 111 @ sec=4, msec=93
+   Sequencer cycle 112 @ sec=4, msec=126
+   Sequencer cycle 113 @ sec=4, msec=160
+   Sequencer cycle 114 @ sec=4, msec=193
+   Sequencer cycle 115 @ sec=4, msec=227
+   Sequencer cycle 116 @ sec=4, msec=260
+   Sequencer cycle 117 @ sec=4, msec=293
+   Sequencer cycle 118 @ sec=4, msec=327
+   Sequencer cycle 119 @ sec=4, msec=360
+   Sequencer cycle 120 @ sec=4, msec=394
+   Time-stamp with Image Analysis release 4 @ sec=4, msec=394
+   Processed Image Save to File release 2 @ sec=4, msec=394
+   Frame Sampler release 12 @ sec=4, msec=394
+   Time-stamp Image Save to File release 4 @ sec=4, msec=394
+   Send Time-stamped Image to Remote release 4 @ sec=4, msec=394
+   Difference Image Proc release 2 @ sec=4, msec=394
+   Sequencer cycle 121 @ sec=4, msec=427
+   Sequencer cycle 122 @ sec=4, msec=460
+   Sequencer cycle 123 @ sec=4, msec=494
+   Sequencer cycle 124 @ sec=4, msec=527
+   Sequencer cycle 125 @ sec=4, msec=561
+   Sequencer cycle 126 @ sec=4, msec=594
+   Sequencer cycle 127 @ sec=4, msec=627
+   Sequencer cycle 128 @ sec=4, msec=661
+   Sequencer cycle 129 @ sec=4, msec=694
+   Sequencer cycle 130 @ sec=4, msec=728
+   Frame Sampler release 13 @ sec=4, msec=728
+   Sequencer cycle 131 @ sec=4, msec=761
+   Sequencer cycle 132 @ sec=4, msec=794
+   Sequencer cycle 133 @ sec=4, msec=828
+   Sequencer cycle 134 @ sec=4, msec=861
+   Sequencer cycle 135 @ sec=4, msec=895
+   Sequencer cycle 136 @ sec=4, msec=928
+   Sequencer cycle 137 @ sec=4, msec=961
+   Sequencer cycle 138 @ sec=4, msec=995
+   Sequencer cycle 139 @ sec=5, msec=28
+   Sequencer cycle 140 @ sec=5, msec=62
+   Frame Sampler release 14 @ sec=5, msec=62
+   Sequencer cycle 141 @ sec=5, msec=95
+   Sequencer cycle 142 @ sec=5, msec=128
+   Sequencer cycle 143 @ sec=5, msec=162
+   Sequencer cycle 144 @ sec=5, msec=195
+   Sequencer cycle 145 @ sec=5, msec=229
+   Sequencer cycle 146 @ sec=5, msec=262
+   Sequencer cycle 147 @ sec=5, msec=296
+   Sequencer cycle 148 @ sec=5, msec=329
+   Sequencer cycle 149 @ sec=5, msec=362
+   Sequencer cycle 150 @ sec=5, msec=396
+   Frame Sampler release 15 @ sec=5, msec=396
+   Time-stamp with Image Analysis release 5 @ sec=5, msec=396
+   Send Time-stamped Image to Remote release 5 @ sec=5, msec=396
+   Time-stamp Image Save to File release 5 @ sec=5, msec=396
+   Sequencer cycle 151 @ sec=5, msec=429
+   Sequencer cycle 152 @ sec=5, msec=463
+   Sequencer cycle 153 @ sec=5, msec=496
+   Sequencer cycle 154 @ sec=5, msec=529
+   Sequencer cycle 155 @ sec=5, msec=563
+   Sequencer cycle 156 @ sec=5, msec=596
+   Sequencer cycle 157 @ sec=5, msec=630
+   Sequencer cycle 158 @ sec=5, msec=663
+   Sequencer cycle 159 @ sec=5, msec=696
+   Sequencer cycle 160 @ sec=5, msec=730
+   Frame Sampler release 16 @ sec=5, msec=730
+   Sequencer cycle 161 @ sec=5, msec=763
+   Sequencer cycle 162 @ sec=5, msec=797
+   Sequencer cycle 163 @ sec=5, msec=830
+   Sequencer cycle 164 @ sec=5, msec=863
+   Sequencer cycle 165 @ sec=5, msec=897
+   Sequencer cycle 166 @ sec=5, msec=930
+   Sequencer cycle 167 @ sec=5, msec=964
+   Sequencer cycle 168 @ sec=5, msec=997
+   Sequencer cycle 169 @ sec=6, msec=30
+   Sequencer cycle 170 @ sec=6, msec=64
+   Frame Sampler release 17 @ sec=6, msec=64
+   Sequencer cycle 171 @ sec=6, msec=97
+   Sequencer cycle 172 @ sec=6, msec=131
+   Sequencer cycle 173 @ sec=6, msec=164
+   Sequencer cycle 174 @ sec=6, msec=197
+   Sequencer cycle 175 @ sec=6, msec=231
+   Sequencer cycle 176 @ sec=6, msec=264
+   Sequencer cycle 177 @ sec=6, msec=298
+   Sequencer cycle 178 @ sec=6, msec=331
+   Sequencer cycle 179 @ sec=6, msec=364
+   Sequencer cycle 180 @ sec=6, msec=398
+   Time-stamp with Image Analysis release 6 @ sec=6, msec=398
+   Send Time-stamped Image to Remote release 6 @ sec=6, msec=398
+   Frame Sampler release 18 @ sec=6, msec=398
+   Time-stamp Image Save to File release 6 @ sec=6, msec=398
+   Processed Image Save to File release 3 @ sec=6, msec=398
+   Difference Image Proc release 3 @ sec=6, msec=398
+   Sequencer cycle 181 @ sec=6, msec=431
+   Sequencer cycle 182 @ sec=6, msec=465
+   Sequencer cycle 183 @ sec=6, msec=498
+   Sequencer cycle 184 @ sec=6, msec=531
+   Sequencer cycle 185 @ sec=6, msec=565
+   Sequencer cycle 186 @ sec=6, msec=598
+   Sequencer cycle 187 @ sec=6, msec=632
+   Sequencer cycle 188 @ sec=6, msec=665
+   Sequencer cycle 189 @ sec=6, msec=699
+   Sequencer cycle 190 @ sec=6, msec=732
+   Frame Sampler release 19 @ sec=6, msec=732
+   Sequencer cycle 191 @ sec=6, msec=765
+   Sequencer cycle 192 @ sec=6, msec=799
+   Sequencer cycle 193 @ sec=6, msec=832
+   Sequencer cycle 194 @ sec=6, msec=866
+   Sequencer cycle 195 @ sec=6, msec=899
+   Sequencer cycle 196 @ sec=6, msec=933
+   Sequencer cycle 197 @ sec=6, msec=966
+   Sequencer cycle 198 @ sec=6, msec=999
+   Sequencer cycle 199 @ sec=7, msec=33
+   Sequencer cycle 200 @ sec=7, msec=66
+   Frame Sampler release 20 @ sec=7, msec=66
+   Sequencer cycle 201 @ sec=7, msec=99
+   Sequencer cycle 202 @ sec=7, msec=133
+   Sequencer cycle 203 @ sec=7, msec=166
+   Sequencer cycle 204 @ sec=7, msec=200
+   Sequencer cycle 205 @ sec=7, msec=233
+   Sequencer cycle 206 @ sec=7, msec=267
+   Sequencer cycle 207 @ sec=7, msec=300
+   Sequencer cycle 208 @ sec=7, msec=333
+   Sequencer cycle 209 @ sec=7, msec=367
+   Sequencer cycle 210 @ sec=7, msec=400
+   Frame Sampler release 21 @ sec=7, msec=400
+   Time-stamp Image Save to File release 7 @ sec=7, msec=400
+   Send Time-stamped Image to Remote release 7 @ sec=7, msec=400
+   Time-stamp with Image Analysis release 7 @ sec=7, msec=400
+   Sequencer cycle 211 @ sec=7, msec=434
+   Sequencer cycle 212 @ sec=7, msec=467
+   Sequencer cycle 213 @ sec=7, msec=501
+   Sequencer cycle 214 @ sec=7, msec=534
+   Sequencer cycle 215 @ sec=7, msec=567
+   Sequencer cycle 216 @ sec=7, msec=601
+   Sequencer cycle 217 @ sec=7, msec=634
+   Sequencer cycle 218 @ sec=7, msec=668
+   Sequencer cycle 219 @ sec=7, msec=701
+   Sequencer cycle 220 @ sec=7, msec=734
+   Frame Sampler release 22 @ sec=7, msec=734
+   Sequencer cycle 221 @ sec=7, msec=768
+   Sequencer cycle 222 @ sec=7, msec=801
+   Sequencer cycle 223 @ sec=7, msec=835
+   Sequencer cycle 224 @ sec=7, msec=868
+   Sequencer cycle 225 @ sec=7, msec=901
+   Sequencer cycle 226 @ sec=7, msec=935
+   Sequencer cycle 227 @ sec=7, msec=968
+   Sequencer cycle 228 @ sec=8, msec=2
+   Sequencer cycle 229 @ sec=8, msec=35
+   Sequencer cycle 230 @ sec=8, msec=68
+   Frame Sampler release 23 @ sec=8, msec=68
+   Sequencer cycle 231 @ sec=8, msec=102
+   Sequencer cycle 232 @ sec=8, msec=135
+   Sequencer cycle 233 @ sec=8, msec=169
+   Sequencer cycle 234 @ sec=8, msec=202
+   Sequencer cycle 235 @ sec=8, msec=235
+   Sequencer cycle 236 @ sec=8, msec=269
+   Sequencer cycle 237 @ sec=8, msec=302
+   Sequencer cycle 238 @ sec=8, msec=336
+   Sequencer cycle 239 @ sec=8, msec=369
+   Sequencer cycle 240 @ sec=8, msec=402
+   Time-stamp with Image Analysis release 8 @ sec=8, msec=402
+   Time-stamp Image Save to File release 8 @ sec=8, msec=402
+   Frame Sampler release 24 @ sec=8, msec=402
+   Send Time-stamped Image to Remote release 8 @ sec=8, msec=402
+   Processed Image Save to File release 4 @ sec=8, msec=402
+   Difference Image Proc release 4 @ sec=8, msec=402
+   Sequencer cycle 241 @ sec=8, msec=436
+   Sequencer cycle 242 @ sec=8, msec=469
+   Sequencer cycle 243 @ sec=8, msec=503
+   Sequencer cycle 244 @ sec=8, msec=536
+   Sequencer cycle 245 @ sec=8, msec=569
+   Sequencer cycle 246 @ sec=8, msec=603
+   Sequencer cycle 247 @ sec=8, msec=636
+   Sequencer cycle 248 @ sec=8, msec=670
+   Sequencer cycle 249 @ sec=8, msec=703
+   Sequencer cycle 250 @ sec=8, msec=736
+   Frame Sampler release 25 @ sec=8, msec=736
+   Sequencer cycle 251 @ sec=8, msec=770
+   Sequencer cycle 252 @ sec=8, msec=803
+   Sequencer cycle 253 @ sec=8, msec=837
+   Sequencer cycle 254 @ sec=8, msec=870
+   Sequencer cycle 255 @ sec=8, msec=903
+   Sequencer cycle 256 @ sec=8, msec=937
+   Sequencer cycle 257 @ sec=8, msec=970
+ :07  Sequencer cycle 258 @ sec=9, msec=4
+ :07  Sequencer cycle 259 @ sec=9, msec=37
+ :07  Sequencer cycle 260 @ sec=9, msec=70
+ :07  Frame Sampler release 26 @ sec=9, msec=70
+ :07  Sequencer cycle 261 @ sec=9, msec=104
+ :07  Sequencer cycle 262 @ sec=9, msec=137
+ :07  Sequencer cycle 263 @ sec=9, msec=171
+ :07  Sequencer cycle 264 @ sec=9, msec=204
+ :07  Sequencer cycle 265 @ sec=9, msec=237
+ :07  Sequencer cycle 266 @ sec=9, msec=271
+ :07  Sequencer cycle 267 @ sec=9, msec=304
+ :07  Sequencer cycle 268 @ sec=9, msec=338
+ :07  Sequencer cycle 269 @ sec=9, msec=371
+ :07  Sequencer cycle 270 @ sec=9, msec=404
+ :07  Frame Sampler release 27 @ sec=9, msec=404
+ :07  Time-stamp with Image Analysis release 9 @ sec=9, msec=404
+ :07  Send Time-stamped Image to Remote release 9 @ sec=9, msec=404
+ :07  Time-stamp Image Save to File release 9 @ sec=9, msec=404
+ :07  Sequencer cycle 271 @ sec=9, msec=438
+ :07  Sequencer cycle 272 @ sec=9, msec=471
+ :07  Sequencer cycle 273 @ sec=9, msec=505
+ :07  Sequencer cycle 274 @ sec=9, msec=538
+ :07  Sequencer cycle 275 @ sec=9, msec=571
+ :07  Sequencer cycle 276 @ sec=9, msec=605
+ :07  Sequencer cycle 277 @ sec=9, msec=638
+ :07  Sequencer cycle 278 @ sec=9, msec=672
+ :07  Sequencer cycle 279 @ sec=9, msec=705
+ :07  Sequencer cycle 280 @ sec=9, msec=738
+ :07  Frame Sampler release 28 @ sec=9, msec=739
+ :07  Sequencer cycle 281 @ sec=9, msec=772
+ :07  Sequencer cycle 282 @ sec=9, msec=805
+ :07  Sequencer cycle 283 @ sec=9, msec=839
+ :07  Sequencer cycle 284 @ sec=9, msec=872
+ :07  Sequencer cycle 285 @ sec=9, msec=906
+ :07  Sequencer cycle 286 @ sec=9, msec=939
+ :07  Sequencer cycle 287 @ sec=9, msec=972
+ :08  Sequencer cycle 288 @ sec=10, msec=6
+ :08  Sequencer cycle 289 @ sec=10, msec=39
+ :08  Sequencer cycle 290 @ sec=10, msec=72
+ :08  Frame Sampler release 29 @ sec=10, msec=73
+ :08  Sequencer cycle 291 @ sec=10, msec=106
+ :08  Sequencer cycle 292 @ sec=10, msec=139
+ :08  Sequencer cycle 293 @ sec=10, msec=173
+ :08  Sequencer cycle 294 @ sec=10, msec=206
+ :08  Sequencer cycle 295 @ sec=10, msec=239
+ :08  Sequencer cycle 296 @ sec=10, msec=273

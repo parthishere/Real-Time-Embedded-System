@@ -1,0 +1,16 @@
+/*
+ * main.h
+ *
+ *  Created on: Mar 28, 2015
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+#define TARGET_IS_TM4C129_RA1
+
+// System clock rate, 120 MHz
+#define SYSTEM_CLOCK    120000000U
+
+
+#endif /* MAIN_H_ */

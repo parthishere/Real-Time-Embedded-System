@@ -1,0 +1,31 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{2}{section*.3}%
+\contentsline {section}{\numberline {1}Question 1}{4}{section.1}%
+\contentsline {subsection}{A}{4}{section*.5}%
+\contentsline {subsection}{B}{6}{figure.3}%
+\contentsline {section}{\numberline {2}Question 2}{7}{section.2}%
+\contentsline {subsection}{A}{7}{section*.6}%
+\contentsline {subsection}{B}{8}{figure.6}%
+\contentsline {section}{\numberline {3}Question 3}{9}{section.3}%
+\contentsline {section}{\numberline {4}Question 4}{11}{section.4}%
+\contentsline {subsection}{A}{11}{section*.7}%
+\contentsline {subsubsection}{Example 0}{11}{Item.29}%
+\contentsline {subsubsection}{Example 1}{12}{Item.33}%
+\contentsline {subsubsection}{Example 2}{13}{Item.37}%
+\contentsline {subsubsection}{Example 3}{14}{Item.41}%
+\contentsline {subsubsection}{Example 4}{16}{Item.45}%
+\contentsline {subsection}{B}{17}{Item.49}%
+\contentsline {subsubsection}{Example 5}{17}{Item.50}%
+\contentsline {subsubsection}{Example 6}{19}{Item.54}%
+\contentsline {subsubsection}{Example 7}{21}{Item.58}%
+\contentsline {subsubsection}{Example 8}{24}{Item.62}%
+\contentsline {subsubsection}{Example 9}{26}{Item.66}%
+\contentsline {subsection}{C}{28}{Item.70}%
+\contentsline {section}{\numberline {5}Question 5}{30}{section.5}%
+\contentsline {subsection}{A}{30}{section*.8}%
+\contentsline {subsection}{B}{31}{Item.84}%
+\contentsline {section}{\numberline {6}Challenges Faced}{31}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{31}{section.7}%
+\contentsline {section}{\numberline {8}References}{32}{section.8}%
+\contentsline {section}{Appendices}{33}{section*.9}%
+\contentsline {section}{\numberline {A}C Code for the Implementation}{33}{appendix.1.A}%

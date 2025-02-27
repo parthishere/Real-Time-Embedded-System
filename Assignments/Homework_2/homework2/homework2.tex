@@ -1,0 +1,185 @@
+
+\documentclass[a4paper,11pt]{article}%,twocolumn
+\input{settings/packages}
+\input{settings/page}
+\input{settings/macros}
+\usepackage[ framed, numbered]{matlab-prettifier}%framed,%
+\usepackage{listings}
+\usepackage{physics}
+\usepackage{pdfpages}
+\usepackage[toc,page]{appendix}
+\usepackage{float}
+\usepackage{hyperref}
+
+\newenvironment{qanda}{\setlength{\parindent}{0pt}}{\bigskip}
+\newcommand{\Q}{\bigskip\bfseries Q: }
+\newcommand{\A}{\par\textbf{Answer: } \normalfont}
+
+\begin{document}
+\input{content/title_page}
+
+
+\pagebreak
+
+\tableofcontents
+\listoffigures
+\listoftables
+\vfill
+\begin{center}
+	\textbf{\textit{*PDF is clickable}}
+\end{center}
+
+\pagebreak
+
+
+
+\begin{qanda}
+
+	\section{Question 1}
+	\Q  Implement a Linux process that is executed at the default priority for a user-level application and waits on a binary semaphore to be given by another application. Run this process and verify its state using the ps command to list its process descriptor. Now, run a separate process to give the semaphore causing the first process to continue execution and exit. Verify completion.
+	\addcontentsline{toc}{subsection}{Answer}
+	\A
+	I wrote a C program named sem\_wait that waits for a semaphore to be signaled by another program. Additionally, I wrote another C program called sem\_post that signals this semaphore. Below are the steps and screenshots demonstrating the waiting program until the semaphore is signaled.
+
+	here are steps for to run semaphore programs
+	\begin{enumerate}
+		\item First, I executed the sem\_wait program. This program will wait for a semaphore signal. A screenshot confirms the program is in a wait state.
+
+		      \begin{figure}[!h]
+			      \centering
+			      \includegraphics[scale=0.6]{figures/sem_waiter.png}
+			      \caption{Program is running and is in wait state}
+		      \end{figure}
+		\item Using the ps command, I checked that the sem\_wait program is indeed running and has not completed its execution. This is shown in the screenshot below.
+		      \begin{figure}[!h]
+			      \centering
+			      \includegraphics[scale=0.6]{figures/ps_sem_waiter.png}
+			      \caption{PS command that shows that our program is waiting for semaphore}
+
+		      \end{figure}
+		\item Next, I ran the sem\_post program, which signals the semaphore for the waiting program.
+		      \begin{figure}[!h]
+			      \centering
+			      \includegraphics[scale=0.6]{figures/sem_poster.png}
+			      \caption{Semaphore has been posted by this program}
+
+		      \end{figure}
+
+		\item After the semaphore was signaled, the sem\_wait program completed its execution. This is evident from the following screenshot.
+		      \begin{figure}[!h]
+			      \centering
+			      \includegraphics[scale=0.6]{figures/sem_waiter_complete.png}
+			      \caption{Output of program waiting for semaphore}
+
+		      \end{figure}
+
+		\item Lastly, I used the ps command again to verify that the waiting program had indeed completed after the semaphore was posted. The screenshot intended to show this step appears to be repeated from step 4. It should ideally confirm the waiting program's completion.
+		      \begin{figure}[!h]
+			      \centering
+			      \includegraphics[scale=0.6]{figures/sem_waiter_complete.png}
+			      \caption{PS output after Semaphore posted}
+
+		      \end{figure}
+
+	\end{enumerate}
+
+	Through these steps and screenshots, it's demonstrated how one program can wait for a semaphore to be signaled by another, showcasing basic inter-process communication and synchronization in Linux.
+
+
+
+	\section{Question 2}
+	\Q   If EDF can be shown to meet deadlines and potentially has 100\% CPU resource utilization, then why is it not typically the hard real-time policy of choice? That is, what are drawbacks to using EDF compared to	RM/DM? In an overload situation, how will EDF fail?
+	\addcontentsline{toc}{subsection}{Answer}
+	\A
+
+	\textbf{Drawbacks of EDF Compared to RM/DM}
+	\begin{enumerate}
+		\item \textbf{Sensitivity to Task Overruns:} In EDF scheduling, if a task overruns its expected execution time, it can lead to a domino effect where subsequent tasks also miss their deadlines. This is because EDF always prioritizes the task with the closest deadline, meaning an overrunning task continues to preempt others, potentially leading all tasks in the queue to miss their deadlines.
+		\item \textbf{Complexity in Handling New Tasks:} Adding a new task to the queue requires adjusting priorities across all tasks. If there's an overrunning task, it won't be preempted by newly added tasks, even if they have sooner deadlines, because the overrunning task has a 'negative' time to its deadline, keeping it at the highest priority.
+		\item \textbf{Difficulty in Overrun Detection and Management:} Managing task overruns in EDF requires detecting the overrun and potentially terminating the overrunning task. This process itself consumes CPU resources, which can further compromise the system's ability to meet deadlines, especially without any margin for error.
+		\item \textbf{Challenges in Predicting Affected Services:} In overload scenarios, while EDF's adjustment to focus on tasks with the soonest deadlines seems logical, predicting which tasks will fail to meet their deadlines due to dynamic releases and priority adjustments is difficult.
+	\end{enumerate}
+
+
+
+
+
+
+
+	\textbf{EDF Failure in Overload Situations}
+	In an overload scenario, EDF can lead to a cascading failure where multiple services miss their deadlines because of a single overrunning service. This failure mode is more severe in EDF compared to RM or DM because RM/DM schedules are static and prioritize tasks based on their fixed rates or deadlines, not dynamically adjusting to the current load or task overruns. This makes RM/DM potentially more predictable and stable under overload conditions, even if they might not utilize CPU resources as efficiently as EDF under normal conditions.\\
+
+	The book by sam siewert suggests that, in the face of an overload, the best course of action for an EDF scheduler might be to drop all services in the queue, aiming for a more deterministic outcome. While this approach ensures predictability, it also indicates a significant limitation of EDF in handling overloads effectively without compromising system reliability.\\
+
+	In summary, while EDF can theoretically achieve 100\% CPU utilization and meet deadlines under ideal conditions, its sensitivity to task overruns, complexity in handling dynamic priority adjustments, and challenges in managing overload situations make it less desirable for hard real-time systems compared to RM or DM. RM and DM's predictability and stability, even at the cost of potentially lower CPU utilization, are often more critical in environments where meeting every deadline is paramount.
+	\pagebreak
+	\section{Question 3}
+	\Q   If a system must complete frame processing so that 100,000 frames are completed per second and the instruction count per frame processed is 2,120 instructions on a 1 GHz processor core, what is the CPI	required for this system? What is the overlap between instructions and IO time if the intermediate IO time is
+	4.5 microseconds?
+	\addcontentsline{toc}{subsection}{Answer}
+	\A
+	The total number of instructions processed per second is the product of the frame processing rate and the instruction count per frame. The CPI (Cycles Per Instruction) can then be determined by dividing the total number of cycles available per second by the total number of instructions processed per second.
+
+	\begin{flalign*}
+		 & Instructions\_per\_second = Frame\_processing\_rate \cdot Instruction\_per\_frame &  & \\
+		 & Instructions\_per\_second = 10000 \cdot 2120                                      &  & \\
+		 & \boxed{Instructions\_per\_second = 21200000}                                      &  & \\\\
+		 & \text{Now for CPI}                                                                &  & \\
+		 & CPI = \frac{Clock\_speed}{Instructions\_per\_second}                              &  & \\
+		 & CPI = \frac{1 \cdot 10^{9}}{21200000}                                             &  & \\
+		 & \boxed{CPI = 4.71698 \quad C/I}                                                   &  & \\
+	\end{flalign*}
+
+	\textbf{Overlap Calculation}
+	The overlap between instructions and I/O time can be considered as the time during which the processor can perform other tasks while waiting for I/O operations to complete. Given the intermediate I/O time, we can calculate the amount of overlap by considering the total time available for processing each frame and the I/O time.
+
+	The instruction execution time would be\\
+
+	\begin{flalign*}
+		& Instruction\_execution\_time = \frac{Instruction\_per\_frame \cdot CPI}{Processor\_clock} &  & \\
+		& Instruction\_execution\_time = \frac{2120 \cdot 4.71698}{10^{9}} &  & \\
+		& \boxed{Instruction\_execution\_time = 1 \cdot 10^{-5} \quad sec}                             &  & \\
+   \end{flalign*}
+
+   And overlapping percentage would be\\
+	\begin{flalign*}
+		 & Overlap\_percentage = \frac{IO\_time}{Instruction\_execution\_time} \cdot 100 &  & \\
+		 & Overlap\_percentage = \frac{4.5 \cdot 10^{-6}}{1 \cdot 10^{-5}} \cdot 100 &  & \\
+		 & Overlap\_percentage = 0.45 \cdot 100 &  & \\
+		 & \boxed{Overlap\_percentage = 45\%}                             &  & \\
+	\end{flalign*}
+
+
+
+
+\end{qanda}
+
+
+\section{Referance}
+\begin{enumerate}
+	\item REAL-TIME EMBEDDED COMPONENTS AND SYSTEMS with LINUX and RTOS by Sam Siewert John Pratt
+	\item Scheduling Algorithms for Multiprogramming in a Hard Real-Time Environment C. L. LIU AND JAMES W. LAYLAND
+	\item https://bears.ece.ucsb.edu/class/ece253/lect7.pdf
+\end{enumerate}
+
+
+\vfill
+\hrule
+\vspace{0.5cm}
+
+\begin{appendices}
+	\section{C Code for the Implementation}
+	\includepdf[pages=-]{code/sem_waiter.c.pdf}
+
+	\includepdf[pages=-]{code/sem_poster.c.pdf}
+\end{appendices}
+
+
+\vspace{1cm}
+\hrule
+\vspace{0.5cm}
+
+
+%---------------------------------------------------------------------------
+\end{document}
+-

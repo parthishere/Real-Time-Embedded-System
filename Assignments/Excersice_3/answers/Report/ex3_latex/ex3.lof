@@ -1,0 +1,14 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Output of simple mutex synchronization}}{10}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Deadlock.c}}{11}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Deadlock\_timeout.c}}{12}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Deadlock\_timeout.c with different parameter}}{13}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces pthread3.c}}{14}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces pthread3.c}}{14}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces pthread3amp.c}}{15}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces pthread3ok.c}}{16}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces pthread3ok.c}}{16}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces deadlock.c}}{17}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces heapmq.c}}{21}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces posix\_mq.c}}{22}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Tasks are in synchronization}}{25}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Tasks are not in synchronization}}{26}{figure.14}%

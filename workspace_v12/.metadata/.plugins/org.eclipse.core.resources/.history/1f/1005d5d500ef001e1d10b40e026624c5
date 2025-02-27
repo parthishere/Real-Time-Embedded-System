@@ -1,0 +1,43 @@
+#include <stdint.h>
+#include <stdbool.h>
+#include "main.h"
+#include "drivers/pinout.h"
+#include "utils/uartstdio.h"
+
+
+// TivaWare includes
+#include "driverlib/sysctl.h"
+#include "driverlib/debug.h"
+#include "driverlib/rom.h"
+#include "driverlib/rom_map.h"
+
+// FreeRTOS includes
+#include "FreeRTOSConfig.h"
+#include "FreeRTOS.h"
+#include "task.h"
+#include "queue.h"
+
+
+int main(void)
+{
+    uint32_t output_clock_rate_hz;
+        output_clock_rate_hz = ROM_SysCtlClockFreqSet(
+                                   (SYSCTL_XTAL_25MHZ | SYSCTL_OSC_MAIN |
+                                    SYSCTL_USE_PLL | SYSCTL_CFG_VCO_480),
+                                   SYSTEM_CLOCK);
+        ASSERT(output_clock_rate_hz == SYSTEM_CLOCK);
+
+        // Initialize the GPIO pins for the Launchpad
+        PinoutSet(false, false);
+
+        // Create demo tasks
+        xTaskCreate(demoLEDTask, (const portCHAR *)"LEDs",
+                    configMINIMAL_STACK_SIZE, NULL, 1, NULL);
+
+        xTaskCreate(demoSerialTask, (const portCHAR *)"Serial",
+                    configMINIMAL_STACK_SIZE, NULL, 1, NULL);
+
+        vTaskStartScheduler();
+
+	return 0;
+}

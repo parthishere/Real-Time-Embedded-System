@@ -1,0 +1,12 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Question 1}{2}{section.1}%
+\contentsline {subsection}{Answer}{2}{section*.4}%
+\contentsline {section}{\numberline {2}Question 2}{7}{section.2}%
+\contentsline {subsection}{Answer}{7}{section*.5}%
+\contentsline {section}{\numberline {3}Question 3}{11}{section.3}%
+\contentsline {subsection}{Answer}{12}{section*.6}%
+\contentsline {section}{\numberline {4}Referance}{13}{section.4}%
+\contentsline {section}{Appendices}{14}{section*.7}%
+\contentsline {section}{\numberline {A}Excel Sheet}{14}{appendix.1.A}%
+\contentsline {subsection}{\numberline {A.1}Q1}{14}{subsection.1.A.1}%

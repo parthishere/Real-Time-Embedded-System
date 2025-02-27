@@ -1,0 +1,505 @@
+Running: ./program --transformation=Canny --resolution=640x480 --sched_policy=SCHED_FIFO
+Header was corrected in the CSV file.
+Resolution: 640x480
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.179406 , total_time taken for 1 frame: 0.139287 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.466410 , total_time taken for 1 frame: 0.154645 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.499395 , total_time taken for 1 frame: 0.117655 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.702928 , total_time taken for 1 frame: 0.129821 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.318237 , total_time taken for 1 frame: 0.136645 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.609650 , total_time taken for 1 frame: 0.131412 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.339365 , total_time taken for 1 frame: 0.136252 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.655015 , total_time taken for 1 frame: 0.130633 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.244507 , total_time taken for 1 frame: 0.138036 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.234612, Average time 0.121439 
+Total deadline miss : 5
+Running: ./program --transformation=Canny --resolution=640x480 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 640x480
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.104658 , total_time taken for 1 frame: 0.163809 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.406891 , total_time taken for 1 frame: 0.135009 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.089110 , total_time taken for 1 frame: 0.141061 
+working logcurrent fps/jitter: update_interval - last_update_interval : 9.137955 , total_time taken for 1 frame: 0.109434 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.128990 , total_time taken for 1 frame: 0.140272 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.565607 , total_time taken for 1 frame: 0.132177 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.990337 , total_time taken for 1 frame: 0.125151 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.724939 , total_time taken for 1 frame: 0.148700 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.663686 , total_time taken for 1 frame: 0.130486 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.155940, Average time 0.122610 
+Total deadline miss : 5
+Running: ./program --transformation=Canny --resolution=800x600 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.000340 , total_time taken for 1 frame: 0.166657 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.084584 , total_time taken for 1 frame: 0.123692 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.694424 , total_time taken for 1 frame: 0.129964 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.084744 , total_time taken for 1 frame: 0.123690 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.497097 , total_time taken for 1 frame: 0.133385 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.322311 , total_time taken for 1 frame: 0.136569 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.714111 , total_time taken for 1 frame: 0.129633 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.310505 , total_time taken for 1 frame: 0.136789 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.367773 , total_time taken for 1 frame: 0.135726 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.222970, Average time 0.121611 
+Total deadline miss : 4
+Running: ./program --transformation=Canny --resolution=800x600 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.712090 , total_time taken for 1 frame: 0.148985 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.535604 , total_time taken for 1 frame: 0.153008 
+working logcurrent fps/jitter: update_interval - last_update_interval : 9.420052 , total_time taken for 1 frame: 0.106157 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.304241 , total_time taken for 1 frame: 0.136907 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.906520 , total_time taken for 1 frame: 0.144791 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.163575 , total_time taken for 1 frame: 0.122495 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.841425 , total_time taken for 1 frame: 0.146168 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.516416 , total_time taken for 1 frame: 0.133042 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.919064 , total_time taken for 1 frame: 0.126278 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.211324, Average time 0.121783 
+Total deadline miss : 5
+Running: ./program --transformation=Canny --resolution=1600x1200 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.643491 , total_time taken for 1 frame: 0.150523 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.507293 , total_time taken for 1 frame: 0.133204 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.282609 , total_time taken for 1 frame: 0.137313 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.296809 , total_time taken for 1 frame: 0.120528 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.527913 , total_time taken for 1 frame: 0.132839 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.349457 , total_time taken for 1 frame: 0.136064 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.919963 , total_time taken for 1 frame: 0.144509 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.712354 , total_time taken for 1 frame: 0.148979 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.473300 , total_time taken for 1 frame: 0.133810 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.079043, Average time 0.123777 
+Total deadline miss : 5
+Running: ./program --transformation=Canny --resolution=1600x1200 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.494285 , total_time taken for 1 frame: 0.153982 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.633372 , total_time taken for 1 frame: 0.115830 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.140257 , total_time taken for 1 frame: 0.140051 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.916811 , total_time taken for 1 frame: 0.126313 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.178918 , total_time taken for 1 frame: 0.139297 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.638152 , total_time taken for 1 frame: 0.130922 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.618120 , total_time taken for 1 frame: 0.131266 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.068205 , total_time taken for 1 frame: 0.141479 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.809471 , total_time taken for 1 frame: 0.128050 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.283712, Average time 0.120719 
+Total deadline miss : 4
+Running: ./program --transformation=HoughLine --resolution=640x480 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 640x480
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+WoringThreads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.139564 , total_time taken for 1 frame: 0.140065 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.475726 , total_time taken for 1 frame: 0.154423 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.609807 , total_time taken for 1 frame: 0.116147 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.221319 , total_time taken for 1 frame: 0.138479 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.824851 , total_time taken for 1 frame: 0.127798 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.059622 , total_time taken for 1 frame: 0.141651 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.854202 , total_time taken for 1 frame: 0.127320 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.324842 , total_time taken for 1 frame: 0.136522 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.501652 , total_time taken for 1 frame: 0.133304 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.225662, Average time 0.121571 
+Total deadline miss : 5
+Running: ./program --transformation=HoughLine --resolution=640x480 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 640x480
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+WoringThreads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 6.699580 , total_time taken for 1 frame: 0.149263 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.739525 , total_time taken for 1 frame: 0.129207 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.881671 , total_time taken for 1 frame: 0.126877 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.230856 , total_time taken for 1 frame: 0.138296 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.975492 , total_time taken for 1 frame: 0.143359 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.874874 , total_time taken for 1 frame: 0.126986 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.148869 , total_time taken for 1 frame: 0.139882 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.118612 , total_time taken for 1 frame: 0.140477 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.716854 , total_time taken for 1 frame: 0.129586 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.170378, Average time 0.122393 
+Total deadline miss : 5
+Running: ./program --transformation=HoughLine --resolution=800x600 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+WoringThreads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.389542 , total_time taken for 1 frame: 0.135326 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.825183 , total_time taken for 1 frame: 0.146516 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.725853 , total_time taken for 1 frame: 0.129436 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.496827 , total_time taken for 1 frame: 0.133390 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.581583 , total_time taken for 1 frame: 0.131899 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.538525 , total_time taken for 1 frame: 0.132652 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.233068 , total_time taken for 1 frame: 0.138254 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.855148 , total_time taken for 1 frame: 0.127305 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.405140 , total_time taken for 1 frame: 0.135041 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.265701, Average time 0.120982 
+Total deadline miss : 4
+Running: ./program --transformation=HoughLine --resolution=800x600 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logWoringworking logcurrent fps/jitter: update_interval - last_update_interval : 6.000051 , total_time taken for 1 frame: 0.166665 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.931016 , total_time taken for 1 frame: 0.126087 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.523311 , total_time taken for 1 frame: 0.117325 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.182100 , total_time taken for 1 frame: 0.139235 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.566644 , total_time taken for 1 frame: 0.132159 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.495694 , total_time taken for 1 frame: 0.133410 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.612738 , total_time taken for 1 frame: 0.131359 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.433638 , total_time taken for 1 frame: 0.134524 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.417677 , total_time taken for 1 frame: 0.134813 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.226544, Average time 0.121558 
+Total deadline miss : 2
+Running: ./program --transformation=HoughLine --resolution=1600x1200 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+WoringThreads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.084315 , total_time taken for 1 frame: 0.141157 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.115716 , total_time taken for 1 frame: 0.140534 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.375559 , total_time taken for 1 frame: 0.135583 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.609187 , total_time taken for 1 frame: 0.131420 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.861554 , total_time taken for 1 frame: 0.127201 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.279118 , total_time taken for 1 frame: 0.137379 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.556614 , total_time taken for 1 frame: 0.132334 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.247822 , total_time taken for 1 frame: 0.137972 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.258467 , total_time taken for 1 frame: 0.137770 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.187651, Average time 0.122135 
+Total deadline miss : 6
+Running: ./program --transformation=HoughLine --resolution=1600x1200 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+WoringThreads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 8.974672 , total_time taken for 1 frame: 0.111425 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.343824 , total_time taken for 1 frame: 0.157634 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.670667 , total_time taken for 1 frame: 0.115331 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.303670 , total_time taken for 1 frame: 0.158638 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.825413 , total_time taken for 1 frame: 0.113309 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.282536 , total_time taken for 1 frame: 0.137315 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.646533 , total_time taken for 1 frame: 0.130778 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.575082 , total_time taken for 1 frame: 0.132012 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.355014 , total_time taken for 1 frame: 0.157356 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.238607, Average time 0.121380 
+Total deadline miss : 4
+Running: ./program --transformation=HoughCircle --resolution=640x480 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 640x480
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.188521 , total_time taken for 1 frame: 0.139111 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.029393 , total_time taken for 1 frame: 0.165854 
+working logcurrent fps/jitter: update_interval - last_update_interval : 9.454226 , total_time taken for 1 frame: 0.105773 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.531152 , total_time taken for 1 frame: 0.132782 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.707733 , total_time taken for 1 frame: 0.129740 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.426392 , total_time taken for 1 frame: 0.134655 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.634304 , total_time taken for 1 frame: 0.130988 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.333864 , total_time taken for 1 frame: 0.136354 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.282633 , total_time taken for 1 frame: 0.137313 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.246956, Average time 0.121257 
+Total deadline miss : 4
+Running: ./program --transformation=HoughCircle --resolution=640x480 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 640x480
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.536463 , total_time taken for 1 frame: 0.132688 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.819763 , total_time taken for 1 frame: 0.146633 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.341845 , total_time taken for 1 frame: 0.119878 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.857312 , total_time taken for 1 frame: 0.145830 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.840808 , total_time taken for 1 frame: 0.127538 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.809367 , total_time taken for 1 frame: 0.128051 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.539190 , total_time taken for 1 frame: 0.132640 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.555466 , total_time taken for 1 frame: 0.132355 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.306094 , total_time taken for 1 frame: 0.136872 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.316117, Average time 0.120248 
+Total deadline miss : 3
+Running: ./program --transformation=HoughCircle --resolution=800x600 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.287940 , total_time taken for 1 frame: 0.137213 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.565686 , total_time taken for 1 frame: 0.132176 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.333983 , total_time taken for 1 frame: 0.136352 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.355850 , total_time taken for 1 frame: 0.135946 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.702586 , total_time taken for 1 frame: 0.129827 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.327873 , total_time taken for 1 frame: 0.136465 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.628827 , total_time taken for 1 frame: 0.131082 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.251207 , total_time taken for 1 frame: 0.137908 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.562558 , total_time taken for 1 frame: 0.132230 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.269941, Average time 0.120920 
+Total deadline miss : 5
+Running: ./program --transformation=HoughCircle --resolution=800x600 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 800x600
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.877197 , total_time taken for 1 frame: 0.126949 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.202599 , total_time taken for 1 frame: 0.138839 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.904154 , total_time taken for 1 frame: 0.126516 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.947533 , total_time taken for 1 frame: 0.143936 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.721391 , total_time taken for 1 frame: 0.129510 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.431521 , total_time taken for 1 frame: 0.118603 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.562366 , total_time taken for 1 frame: 0.132234 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.296713 , total_time taken for 1 frame: 0.137048 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.516908 , total_time taken for 1 frame: 0.133033 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.426962, Average time 0.118667 
+Total deadline miss : 3
+Running: ./program --transformation=HoughCircle --resolution=1600x1200 --sched_policy=SCHED_FIFO
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 1
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_FIFO
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.572928 , total_time taken for 1 frame: 0.132049 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.347857 , total_time taken for 1 frame: 0.157533 
+working logcurrent fps/jitter: update_interval - last_update_interval : 8.472088 , total_time taken for 1 frame: 0.118035 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.677295 , total_time taken for 1 frame: 0.130254 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.824516 , total_time taken for 1 frame: 0.127803 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.216093 , total_time taken for 1 frame: 0.138579 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.726276 , total_time taken for 1 frame: 0.129428 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.218421 , total_time taken for 1 frame: 0.138534 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.482372 , total_time taken for 1 frame: 0.133647 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.292805, Average time 0.120586 
+Total deadline miss : 3
+Running: ./program --transformation=HoughCircle --resolution=1600x1200 --sched_policy=SCHED_OTHER
+CSV header is correct.
+Resolution: 1600x1200
+Scheduler Policy: 0
+This system has 12 processors configured and 12 processors available.
+Before adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+After adjustments to scheduling policy:
+Pthread Policy is SCHED_OTHER
+Setting thread 0 to core 0
+Setting thread 1 to core 0
+Threads created 
+Joining thread 0
+working logworking logcurrent fps/jitter: update_interval - last_update_interval : 7.159343 , total_time taken for 1 frame: 0.139678 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.843491 , total_time taken for 1 frame: 0.146124 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.937336 , total_time taken for 1 frame: 0.125987 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.700285 , total_time taken for 1 frame: 0.129865 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.989042 , total_time taken for 1 frame: 0.125171 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.479211 , total_time taken for 1 frame: 0.133704 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.639567 , total_time taken for 1 frame: 0.130897 
+working logcurrent fps/jitter: update_interval - last_update_interval : 6.649475 , total_time taken for 1 frame: 0.150388 
+working logcurrent fps/jitter: update_interval - last_update_interval : 7.211220 , total_time taken for 1 frame: 0.138673 
+Thread 0 joined successfully.
+Joining thread 1
+Thread 1 joined successfully.
+Average FPS 8.193447, Average time 0.122049 
+Total deadline miss : 4
+    Sched_Policy    Transform Resolution  Execution_time
+0              0        Canny  1600x1200        0.010962
+1              0        Canny    640x480        0.015196
+2              0        Canny    800x600        0.015047
+3              0  HoughCircle  1600x1200        0.008770
+4              0  HoughCircle    640x480        0.008582
+5              0  HoughCircle    800x600        0.007557
+6              0    HoughLine  1600x1200        0.019416
+7              0    HoughLine    640x480        0.008079
+8              0    HoughLine    800x600        0.013400
+9              1        Canny  1600x1200        0.009317
+10             1        Canny    640x480        0.009858
+11             1        Canny    800x600        0.012849
+12             1  HoughCircle  1600x1200        0.010767
+13             1  HoughCircle    640x480        0.015323
+14             1  HoughCircle    800x600        0.003005
+15             1    HoughLine  1600x1200        0.004573
+16             1    HoughLine    640x480        0.010786
+17             1    HoughLine    800x600        0.005570

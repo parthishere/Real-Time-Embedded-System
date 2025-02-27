@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "array": "c",
+        "string_view": "c",
+        "random": "c",
+        "sched.h": "c",
+        "semaphore.h": "c"
+    }
+}

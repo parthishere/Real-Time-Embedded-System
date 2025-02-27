@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Insaf~Adjabi and Taleb-Ahmed(2020)]{mdpi}
+Amir~Benzaoui Insaf~Adjabi, Abdeldjalil~Ouahabi and Abdelmalik Taleb-Ahmed.
+\newblock Past, present, and future of face recognition: A review.
+\newblock \url{https://www.mdpi.com/2079-9292/9/8/1188}, 2020.
+\newblock Accessed: 2020-06-19.
+
+\bibitem[OpenCV(2023)]{opencv}
+OpenCV.
+\newblock Opencv face detection.
+\newblock \url{https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html},
+  2023.
+\newblock Accessed: 2023-06-19.
+
+\bibitem[Salih and Gh(2020)]{article}
+Thair Salih and Mohammad Gh.
+\newblock A novel face recognition system based on jetson nano developer kit.
+\newblock \emph{IOP Conference Series: Materials Science and Engineering},
+  928:\penalty0 032051, 11 2020.
+\newblock \doi{10.1088/1757-899X/928/3/032051}.
+
+\bibitem[Sati et~al.(2020)Sati, Márquez-Sánchez, Shoeibi, Arora, and
+  Corchado~Rodríguez]{inbook}
+Vishwani Sati, Sergio Márquez-Sánchez, Niloufar Shoeibi, Ashish Arora, and
+  Juan Corchado~Rodríguez.
+\newblock \emph{Face Detection and Recognition, Face Emotion Recognition
+  Through NVIDIA Jetson Nano}, pages 177--185.
+\newblock 09 2020.
+\newblock ISBN 978-3-030-58355-2.
+\newblock \doi{10.1007/978-3-030-58356-9_18}.
+
+\end{thebibliography}
